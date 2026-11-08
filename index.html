@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>IT Role Profiles Lab - устойчивость технологических профилей IT-ролей</title>
+<meta name="description" content="Исследовательская среда: технологические профили семи IT-ролей по Stack Overflow Developer Survey 2025 и их устойчивость к выбору метрики, порога, фона и состава выборки.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Golos+Text:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="app">
+<aside>
+  <div class="brand">IT Role Profiles Lab</div>
+  <div class="brand-sub">Профили IT-ролей по Stack Overflow Developer Survey 2025</div>
+  <nav id="nav">
+    <a href="#overview">Обзор</a>
+    <a href="#profiles">Профили ролей</a>
+    <a href="#thresholds">Знаменатели и пороги</a>
+    <a href="#methods">Сравнение правил</a>
+    <a href="#stability">Устойчивость</a>
+    <a href="#data">Данные и методика</a>
+  </nav>
+  <div class="side-foot">Сводные результаты. Индивидуальные ответы респондентов не публикуются.</div>
+</aside>
+<main>
+  <div class="crumbs">Workspace &rsaquo; <b id="crumb">Обзор</b></div>
+  <div class="wrap">
+  <div class="status"><span><span class="dot"></span>Stack Overflow Developer Survey 2025 · 49 191 записей · 7 ролей · 142 технологии</span><span>Бутстреп: 1 000 повторов, seed 2026</span></div>
+  <div class="banner"><b>Профиль описывает самоотчет участников опроса, а не требования профессии</b>Доли и баллы показывают, сколько респондентов роли указали технологию в анкете 2025 года. Это не оценка рынка труда и не рекомендация, что изучать.</div>
+
+  <!-- OVERVIEW -->
+  <section id="v-overview" data-view>
+    <p class="kicker">Исследовательская среда к статье</p>
+    <h1>Устойчивость технологических профилей IT-ролей</h1>
+    <p class="lead">Как меняются состав и порядок технологий в профиле роли, если по-другому считать долю, выбрать другой порог, исключить роль из фона или взять только тех, кто ответил на все вопросы.</p>
+    <div class="facts" id="facts"></div>
+    <h2>Главный вопрос</h2>
+    <p>Насколько устойчивы состав и порядок технологий в профилях семи IT-ролей к изменению метрики распространенности, порога отбора, фоновой совокупности и состава респондентов?</p>
+    <h2>Что показал анализ</h2>
+    <ul class="findings">
+      <li>Внутри одной роли и одной категории доля респондентов p и доля упоминаний f различаются постоянным множителем, поэтому порядок технологий по ним совпадает полностью. Разница между 228 и 619 отобранными парами объясняется тем, что порог f ≥ 4% строже порога p ≥ 4% в 2,7–7,6 раза.</li>
+      <li>Логарифмический балл Slog = p·ln(1+L) почти повторяет порядок по распространенности: медианная корреляция Спирмена с p внутри категорий 0,941, с отношением L - 0,598.</li>
+      <li>Тесно коррелирующие правила по-разному устойчивы в верхней части рейтинга. Для Backend исходный объединенный top-10 сохраняется в 53,6% бутстреп-повторов для Slog, в 97,3% для p и в 99,0% для Sroot.</li>
+      <li>Исключение роли из собственного фона не меняет порядок по L внутри категорий; изменения комбинированных баллов малы (Спирмен ≥ 0,98).</li>
+    </ul>
+    <p class="note">Выберите раздел слева, чтобы открыть профиль любой роли при любых настройках расчета.</p>
+  </section>
+
+  <!-- PROFILES -->
+  <section id="v-profiles" data-view hidden>
+    <p class="kicker">Профили ролей</p>
+    <h1>Профиль роли</h1>
+    <p class="lead">Выберите роль и правило расчета. Таблица пересчитывается по тем же формулам, что и в статье.</p>
+    <div class="panel">
+      <div class="controls">
+        <div><label for="p-role">Роль</label><select id="p-role"></select></div>
+        <div><label for="p-cat">Категория</label><select id="p-cat"></select></div>
+        <div><label for="p-den">Знаменатель</label><select id="p-den"><option value="p">p - доля респондентов</option><option value="f">f - доля упоминаний</option></select></div>
+        <div><label for="p-bg">Общий фон</label><select id="p-bg"><option value="inclusive">все ответившие</option><option value="excluded">без текущей роли</option></select></div>
+        <div><label for="p-co">Выборка</label><select id="p-co"><option value="full">полный файл</option><option value="complete">ответившие на все 4 вопроса</option></select></div>
+        <div><label for="p-t">Порог отбора</label><select id="p-t"></select></div>
+        <div><label for="p-sort">Сортировать по</label><select id="p-sort"><option value="freq">доле</option><option value="ratio">отношению L</option><option value="log" selected>Slog</option><option value="sqrt">Sroot</option><option value="lin">Slin</option></select></div>
+      </div>
+      <div class="summary" id="p-summary"></div>
+    </div>
+    <div class="panel tablebox"><table id="p-table"></table></div>
+    <p class="note" id="p-note"></p>
+  </section>
+
+  <!-- THRESHOLDS -->
+  <section id="v-thresholds" data-view hidden>
+    <p class="kicker">Знаменатели и пороги</p>
+    <h1>Одинаковое число - разные пороги</h1>
+    <p class="lead">f = p / m, где m - среднее число вариантов, отмеченных одним ответившим. Поэтому условие f ≥ t равносильно p ≥ t·m: порог по упоминаниям строже порога по людям в m раз.</p>
+    <div class="formula">p = c / N &nbsp;&nbsp; f = c / M &nbsp;&nbsp; m = M / N &nbsp;&nbsp;⇒&nbsp;&nbsp; f ≥ t &nbsp;⇔&nbsp; p ≥ t·m</div>
+    <div class="panel">
+      <div class="controls" style="max-width:360px"><div><label for="t-val">Порог t, %</label><input id="t-val" type="number" min="0.5" max="20" step="0.5" value="4"></div></div>
+      <div class="summary" id="t-summary"></div>
+    </div>
+    <div class="panel tablebox"><table id="t-table"></table></div>
+    <p class="note">В ячейке: m / эквивалентный порог по людям p = t·m. Счет пар «роль - технология» ведется по всем 142 технологиям для семи ролей.</p>
+  </section>
+
+  <!-- METHODS -->
+  <section id="v-methods" data-view hidden>
+    <p class="kicker">Сравнение правил</p>
+    <h1>Насколько похожи рейтинги</h1>
+    <p class="lead">Корреляции Спирмена между пятью правилами на одном отобранном наборе технологий и разложение дисперсии ln Slog на вклад распространенности и специфичности.</p>
+    <div class="panel"><div class="controls">
+      <div><label for="m-role">Роль</label><select id="m-role"></select></div>
+      <div><label for="m-scope">Набор</label><select id="m-scope"></select></div>
+      <div><label for="m-t">Порог p</label><select id="m-t"></select></div>
+      <div><label for="m-coef">Коэффициент</label><select id="m-coef"><option value="0">Спирмен ρ</option><option value="1">Кендалл τ-b</option></select></div>
+    </div></div>
+    <div class="grid2">
+      <div class="panel tablebox"><h3 style="margin-top:0">Матрица согласованности</h3><table id="m-table" class="heat"></table><p class="note" id="m-n"></p></div>
+      <div class="panel"><h3 style="margin-top:0">Разложение Var(ln Slog)</h3><div id="m-var"></div>
+        <div class="legend"><span><i class="sw" style="background:var(--accent)"></i>Var(ln p)</span><span><i class="sw" style="background:#14B8A6"></i>Var(ln ln(1+L))</span><span><i class="sw" style="background:#F59E0B"></i>2·Cov</span></div>
+        <p class="note">Доли делятся на общую дисперсию. При отрицательной ковариации доля Var(ln p) может превышать 1. Это алгебраическое разложение, а не причинные вклады.</p></div>
+    </div>
+  </section>
+
+  <!-- STABILITY -->
+  <section id="v-stability" data-view hidden>
+    <p class="kicker">Устойчивость</p>
+    <h1>Что сохраняется при пересчетах</h1>
+    <p class="lead">Доля бутстреп-повторов, в которых исходный top-10 сохранился полностью (с учетом связанных рангов, без учета внутреннего порядка), а также влияние фона и полноты ответов.</p>
+    <div class="panel"><div class="controls">
+      <div><label for="s-scope">Набор</label><select id="s-scope"></select></div>
+      <div><label for="s-metric">Показатель</label><select id="s-metric"><option value="0">точное сохранение top-10</option><option value="1">средний Жаккар top-10</option></select></div>
+    </div></div>
+    <div class="panel tablebox"><table id="s-table" class="heat"></table>
+      <p class="note">Стандартная ошибка Монте-Карло для доли при 1 000 повторах не превышает 0,016. Интервалы условны на наблюдаемые размеры страт DevType.</p></div>
+    <h2>Фон и полнота ответов</h2>
+    <div class="panel"><div class="controls" style="max-width:640px">
+      <div><label for="d-method">Правило</label><select id="d-method"></select></div>
+      <div><label for="d-scope">Набор</label><select id="d-scope"></select></div>
+    </div></div>
+    <div class="panel tablebox"><table id="d-table"></table>
+      <p class="note">Сравнение с полными ответами не выравнивает размер выборки: различия отражают одновременно меньший объем и другой состав респондентов.</p></div>
+  </section>
+
+  <!-- DATA -->
+  <section id="v-data" data-view hidden>
+    <p class="kicker">Данные и методика</p>
+    <h1>Как получены числа</h1>
+    <p class="lead">Все значения на сайте посчитаны скриптом <code>run_analysis.py</code> по файлу опроса с фиксированной контрольной суммой.</p>
+    <div class="panel" id="audit"></div>
+    <h2>Формулы</h2>
+    <div class="formula">p(r,s) = c(r,s) / N(r,k) &nbsp;&nbsp;&nbsp; f(r,s) = c(r,s) / M(r,k)</div>
+    <div class="formula">L(r,s) = p(r,s) / p(all,s)</div>
+    <div class="formula">Slog = p·ln(1+L) &nbsp;&nbsp;&nbsp; Sroot = p·√L &nbsp;&nbsp;&nbsp; Slin = p·L</div>
+    <p>c - число респондентов роли r, отметивших технологию s; N - число ответивших на вопрос категории k; M - общее число отмеченных вариантов в этом вопросе. Фон «все ответившие» включает текущую роль, вариант «без текущей роли» исключает ее из числителя и знаменателя.</p>
+    <h2>Воспроизведение</h2>
+<pre>pip install -r requirements.txt
+python run_analysis.py --csv survey_results_public.csv \
+  --saved skill_weights_by_role_final_v2.csv --out results \
+  --bootstrap 1000 --seed 2026</pre>
+    <h2>Ограничения</h2>
+    <p>Опрос основан на самоотборе участников и самоотчете. Семь ролей унаследованы от прикладного проекта карьерной платформы и не исчерпывают IT-профессии. Бутстреп оценивает неопределенность внутри наблюдаемого файла, но не исправляет смещения выборки. Внешней проверки профилей по вакансиям или экспертным оценкам в этой версии нет.</p>
+  </section>
+  </div>
+</main>
+</div>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
