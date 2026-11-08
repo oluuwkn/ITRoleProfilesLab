@@ -1,0 +1,55 @@
+{
+  "csv_sha256": "2d1f65308877282edfb4470520eabbc08cb499118432a3dcec6a66c086aa2baa",
+  "shape": [
+    49191,
+    172
+  ],
+  "duplicate_rows": 0,
+  "response_id_missing": 0,
+  "response_id_unique": 49191,
+  "devtype_missing": 5511,
+  "multivalued_devtype": 0,
+  "tools_field_present": false,
+  "official_website_n": 49009,
+  "website_difference": 182,
+  "website_difference_explanation": "Not established by the available respondent file; no arbitrary row deletion.",
+  "versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0"
+  },
+  "seed": 2026,
+  "bootstrap_replicates": 1000,
+  "duplicate_tokens_removed": 0,
+  "technology_count": 142,
+  "global_answered": {
+    "languages": 31671,
+    "databases": 25550,
+    "web": 22992,
+    "cloud_tools": 24258
+  },
+  "exact_vs_substring_roles": {
+    "fullstack": true,
+    "backend": true,
+    "frontend": true,
+    "desktop": true,
+    "mobile": true,
+    "ml_engineer": true,
+    "embedded": true
+  },
+  "complete_cases": 17691,
+  "legacy": {
+    "computed_pairs": 228,
+    "saved_survey_pairs": 228,
+    "key_counts": {
+      "both": 228,
+      "left_only": 0,
+      "right_only": 0
+    },
+    "rounded_frequency_equal": true,
+    "rounded_ratio_equal": true,
+    "max_weight_error": 2.220446049250313e-16
+  },
+  "elapsed_note": "All recorded bootstrap statistics recompute role and inclusive global frequencies from the same resampled respondents."
+}
