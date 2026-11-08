@@ -1,0 +1,9 @@
+role,n_total,n_complete,answered_languages,answered_databases,answered_web,answered_cloud_tools
+all,49191,17691,31671,25550,22992,24258
+fullstack,12351,6975,9111,8585,8522,7580
+backend,6453,3074,4695,4345,3573,4123
+frontend,1974,590,1402,807,1312,938
+desktop,1919,529,1489,1088,796,914
+mobile,1391,242,931,547,396,557
+ml_engineer,677,237,441,363,286,382
+embedded,1274,141,968,353,264,547

@@ -1,0 +1,1989 @@
+cohort,role,category,column,skill,count_role,answered_role,mentions_role,count_all,answered_all,mentions_all
+full,fullstack,languages,LanguageHaveWorkedWith,Ada,51.0,9111,59742.0,431.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Assembly,305.0,9111,59742.0,2246.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),4184.0,9111,59742.0,15503.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,C,1243.0,9111,59742.0,6987.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,C#,3259.0,9111,59742.0,8852.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,C++,1390.0,9111,59742.0,7485.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,COBOL,52.0,9111,59742.0,308.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Dart,605.0,9111,59742.0,1885.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Delphi,175.0,9111,59742.0,796.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Elixir,264.0,9111,59742.0,847.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Erlang,120.0,9111,59742.0,465.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,F#,84.0,9111,59742.0,406.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Fortran,51.0,9111,59742.0,449.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,GDScript,273.0,9111,59742.0,1062.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Gleam,82.0,9111,59742.0,354.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Go,1382.0,9111,59742.0,5219.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Groovy,357.0,9111,59742.0,1535.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,HTML/CSS,7526.0,9111,59742.0,19698.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Java,2706.0,9111,59742.0,9358.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,JavaScript,7939.0,9111,59742.0,21005.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Kotlin,904.0,9111,59742.0,3420.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Lisp,136.0,9111,59742.0,753.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Lua,750.0,9111,59742.0,2910.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,MATLAB,158.0,9111,59742.0,1231.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,MicroPython,126.0,9111,59742.0,723.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Mojo,17.0,9111,59742.0,145.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,OCaml,50.0,9111,59742.0,367.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,PHP,2525.0,9111,59742.0,5994.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Perl,267.0,9111,59742.0,1215.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,PowerShell,2312.0,9111,59742.0,7371.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Prolog,49.0,9111,59742.0,338.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Python,4416.0,9111,59742.0,18410.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,R,213.0,9111,59742.0,1569.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Ruby,714.0,9111,59742.0,2046.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Rust,1126.0,9111,59742.0,4724.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,SQL,6599.0,9111,59742.0,18633.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Scala,135.0,9111,59742.0,843.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Swift,372.0,9111,59742.0,1719.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,TypeScript,5860.0,9111,59742.0,13859.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,VBA,338.0,9111,59742.0,1334.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Visual Basic (.Net),488.0,9111,59742.0,1409.0,31671,194584.0
+full,fullstack,languages,LanguageHaveWorkedWith,Zig,139.0,9111,59742.0,680.0,31671,194584.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Amazon Redshift,104.0,8585,29730.0,611.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,BigQuery,370.0,8585,29730.0,1705.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Cassandra,176.0,8585,29730.0,766.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Clickhouse,121.0,8585,29730.0,627.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Cloud Firestore,479.0,8585,29730.0,1494.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Cockroachdb,45.0,8585,29730.0,262.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Cosmos DB,375.0,8585,29730.0,1190.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Databricks SQL,130.0,8585,29730.0,895.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Datomic,31.0,8585,29730.0,148.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,DuckDB,148.0,8585,29730.0,863.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Dynamodb,774.0,8585,29730.0,2551.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Elasticsearch,1333.0,8585,29730.0,4347.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,422.0,8585,29730.0,1299.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,H2,422.0,8585,29730.0,1303.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,IBM DB2,171.0,8585,29730.0,615.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,InfluxDB,233.0,8585,29730.0,963.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,MariaDB,2227.0,8585,29730.0,5862.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Microsoft Access,310.0,8585,29730.0,1244.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,3044.0,8585,29730.0,7871.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,MongoDB,2222.0,8585,29730.0,6267.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,MySQL,3790.0,8585,29730.0,10581.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Neo4J,138.0,8585,29730.0,691.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Oracle,880.0,8585,29730.0,2761.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Pocketbase,69.0,8585,29730.0,262.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,PostgreSQL,4948.0,8585,29730.0,14529.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Redis,2603.0,8585,29730.0,7316.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,SQLite,3140.0,8585,29730.0,9798.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Snowflake,238.0,8585,29730.0,1079.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Supabase,638.0,8585,29730.0,1558.0,25550,90090.0
+full,fullstack,databases,DatabaseHaveWorkedWith,Valkey,149.0,8585,29730.0,632.0,25550,90090.0
+full,fullstack,web,WebframeHaveWorkedWith,ASP.NET,1603.0,8522,36264.0,3360.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,ASP.NET Core,2136.0,8522,36264.0,4664.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Angular,1997.0,8522,36264.0,4319.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,AngularJS,752.0,8522,36264.0,1718.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Astro,419.0,8522,36264.0,1058.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Axum,175.0,8522,36264.0,671.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Blazor,762.0,8522,36264.0,1648.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Deno,364.0,8522,36264.0,960.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Django,933.0,8522,36264.0,2980.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Drupal,203.0,8522,36264.0,526.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Express,2112.0,8522,36264.0,4710.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,FastAPI,990.0,8522,36264.0,3504.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Fastify,301.0,8522,36264.0,692.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Flask,886.0,8522,36264.0,3406.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Laravel,1045.0,8522,36264.0,2111.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,NestJS,762.0,8522,36264.0,1596.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Next.js,2191.0,8522,36264.0,4933.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Node.js,4812.0,8522,36264.0,11544.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Nuxt.js,405.0,8522,36264.0,948.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Phoenix,216.0,8522,36264.0,568.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,React,4557.0,8522,36264.0,10596.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Ruby on Rails,593.0,8522,36264.0,1395.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Spring Boot,1213.0,8522,36264.0,3481.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Svelte,675.0,8522,36264.0,1717.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Symfony,419.0,8522,36264.0,949.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,Vue.js,1880.0,8522,36264.0,4162.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,WordPress,1251.0,8522,36264.0,3227.0,22992,86984.0
+full,fullstack,web,WebframeHaveWorkedWith,jQuery,2612.0,8522,36264.0,5541.0,22992,86984.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,APT,1161.0,7580,57364.0,4516.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),3412.0,7580,57364.0,10618.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Ansible,655.0,7580,57364.0,2878.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Bun,579.0,7580,57364.0,1344.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Cargo,909.0,7580,57364.0,3521.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Chocolatey,858.0,7580,57364.0,2706.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Cloudflare,1713.0,7580,57364.0,4923.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Composer,1162.0,7580,57364.0,2701.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Datadog,636.0,7580,57364.0,2169.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,1010.0,7580,57364.0,2621.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Docker,5582.0,7580,57364.0,17414.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Firebase,1100.0,7580,57364.0,3200.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Google Cloud,1803.0,7580,57364.0,6015.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Gradle,1054.0,7580,57364.0,3523.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Heroku,541.0,7580,57364.0,1318.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Homebrew,1966.0,7580,57364.0,6291.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,51.0,7580,57364.0,294.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Kubernetes,1875.0,7580,57364.0,6993.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,MSBuild,914.0,7580,57364.0,2700.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Make,1314.0,7580,57364.0,5682.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),1189.0,7580,57364.0,4022.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,2186.0,7580,57364.0,6447.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Netlify,566.0,7580,57364.0,1433.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,New Relic,314.0,7580,57364.0,936.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Ninja,167.0,7580,57364.0,1272.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,NuGet,1856.0,7580,57364.0,4637.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Pacman,543.0,7580,57364.0,2124.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Pip,2643.0,7580,57364.0,10025.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Podman,685.0,7580,57364.0,2730.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Poetry,491.0,7580,57364.0,2214.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Prometheus,663.0,7580,57364.0,2883.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Railway,148.0,7580,57364.0,360.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Splunk,253.0,7580,57364.0,1105.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Supabase,540.0,7580,57364.0,1320.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Terraform,1138.0,7580,57364.0,4349.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Vercel,1144.0,7580,57364.0,2602.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Vite,2993.0,7580,57364.0,6215.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Webpack,2266.0,7580,57364.0,4500.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,25.0,7580,57364.0,165.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,Yarn,2233.0,7580,57364.0,5178.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,npm,5583.0,7580,57364.0,13906.0,24258,173140.0
+full,fullstack,cloud_tools,PlatformHaveWorkedWith,pnpm,1443.0,7580,57364.0,3290.0,24258,173140.0
+full,backend,languages,LanguageHaveWorkedWith,Ada,23.0,4695,25993.0,431.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Assembly,177.0,4695,25993.0,2246.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),2381.0,4695,25993.0,15503.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,C,661.0,4695,25993.0,6987.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,C#,1153.0,4695,25993.0,8852.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,C++,760.0,4695,25993.0,7485.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,COBOL,37.0,4695,25993.0,308.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Dart,181.0,4695,25993.0,1885.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Delphi,50.0,4695,25993.0,796.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Elixir,181.0,4695,25993.0,847.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Erlang,81.0,4695,25993.0,465.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,F#,58.0,4695,25993.0,406.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Fortran,23.0,4695,25993.0,449.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,GDScript,104.0,4695,25993.0,1062.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Gleam,49.0,4695,25993.0,354.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Go,1143.0,4695,25993.0,5219.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Groovy,298.0,4695,25993.0,1535.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,HTML/CSS,2190.0,4695,25993.0,19698.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Java,1717.0,4695,25993.0,9358.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,JavaScript,2659.0,4695,25993.0,21005.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Kotlin,536.0,4695,25993.0,3420.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Lisp,105.0,4695,25993.0,753.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Lua,392.0,4695,25993.0,2910.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,MATLAB,57.0,4695,25993.0,1231.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,MicroPython,66.0,4695,25993.0,723.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Mojo,9.0,4695,25993.0,145.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,OCaml,45.0,4695,25993.0,367.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,PHP,746.0,4695,25993.0,5994.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Perl,158.0,4695,25993.0,1215.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,PowerShell,871.0,4695,25993.0,7371.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Prolog,31.0,4695,25993.0,338.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Python,2553.0,4695,25993.0,18410.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,R,83.0,4695,25993.0,1569.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Ruby,336.0,4695,25993.0,2046.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Rust,742.0,4695,25993.0,4724.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,SQL,2998.0,4695,25993.0,18633.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Scala,225.0,4695,25993.0,843.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Swift,94.0,4695,25993.0,1719.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,TypeScript,1736.0,4695,25993.0,13859.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,VBA,70.0,4695,25993.0,1334.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Visual Basic (.Net),112.0,4695,25993.0,1409.0,31671,194584.0
+full,backend,languages,LanguageHaveWorkedWith,Zig,102.0,4695,25993.0,680.0,31671,194584.0
+full,backend,databases,DatabaseHaveWorkedWith,Amazon Redshift,77.0,4345,15337.0,611.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,BigQuery,328.0,4345,15337.0,1705.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Cassandra,178.0,4345,15337.0,766.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Clickhouse,170.0,4345,15337.0,627.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Cloud Firestore,156.0,4345,15337.0,1494.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Cockroachdb,44.0,4345,15337.0,262.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Cosmos DB,223.0,4345,15337.0,1190.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Databricks SQL,121.0,4345,15337.0,895.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Datomic,13.0,4345,15337.0,148.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,DuckDB,118.0,4345,15337.0,863.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Dynamodb,582.0,4345,15337.0,2551.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Elasticsearch,1005.0,4345,15337.0,4347.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,104.0,4345,15337.0,1299.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,H2,376.0,4345,15337.0,1303.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,IBM DB2,94.0,4345,15337.0,615.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,InfluxDB,169.0,4345,15337.0,963.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,MariaDB,811.0,4345,15337.0,5862.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Microsoft Access,74.0,4345,15337.0,1244.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,1035.0,4345,15337.0,7871.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,MongoDB,1044.0,4345,15337.0,6267.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,MySQL,1661.0,4345,15337.0,10581.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Neo4J,90.0,4345,15337.0,691.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Oracle,459.0,4345,15337.0,2761.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Pocketbase,14.0,4345,15337.0,262.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,PostgreSQL,2785.0,4345,15337.0,14529.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Redis,1795.0,4345,15337.0,7316.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,SQLite,1352.0,4345,15337.0,9798.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Snowflake,185.0,4345,15337.0,1079.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Supabase,147.0,4345,15337.0,1558.0,25550,90090.0
+full,backend,databases,DatabaseHaveWorkedWith,Valkey,127.0,4345,15337.0,632.0,25550,90090.0
+full,backend,web,WebframeHaveWorkedWith,ASP.NET,420.0,3573,11110.0,3360.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,ASP.NET Core,691.0,3573,11110.0,4664.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Angular,477.0,3573,11110.0,4319.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,AngularJS,180.0,3573,11110.0,1718.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Astro,70.0,3573,11110.0,1058.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Axum,148.0,3573,11110.0,671.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Blazor,211.0,3573,11110.0,1648.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Deno,96.0,3573,11110.0,960.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Django,489.0,3573,11110.0,2980.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Drupal,51.0,3573,11110.0,526.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Express,508.0,3573,11110.0,4710.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,FastAPI,628.0,3573,11110.0,3504.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Fastify,82.0,3573,11110.0,692.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Flask,506.0,3573,11110.0,3406.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Laravel,317.0,3573,11110.0,2111.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,NestJS,214.0,3573,11110.0,1596.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Next.js,441.0,3573,11110.0,4933.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Node.js,1265.0,3573,11110.0,11544.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Nuxt.js,85.0,3573,11110.0,948.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Phoenix,119.0,3573,11110.0,568.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,React,1242.0,3573,11110.0,10596.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Ruby on Rails,238.0,3573,11110.0,1395.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Spring Boot,944.0,3573,11110.0,3481.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Svelte,136.0,3573,11110.0,1717.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Symfony,194.0,3573,11110.0,949.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,Vue.js,472.0,3573,11110.0,4162.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,WordPress,259.0,3573,11110.0,3227.0,22992,86984.0
+full,backend,web,WebframeHaveWorkedWith,jQuery,627.0,3573,11110.0,5541.0,22992,86984.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,APT,653.0,4123,28567.0,4516.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),2136.0,4123,28567.0,10618.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Ansible,482.0,4123,28567.0,2878.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Bun,138.0,4123,28567.0,1344.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Cargo,580.0,4123,28567.0,3521.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Chocolatey,338.0,4123,28567.0,2706.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Cloudflare,698.0,4123,28567.0,4923.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Composer,430.0,4123,28567.0,2701.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Datadog,589.0,4123,28567.0,2169.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,411.0,4123,28567.0,2621.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Docker,3313.0,4123,28567.0,17414.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Firebase,320.0,4123,28567.0,3200.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Google Cloud,946.0,4123,28567.0,6015.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Gradle,679.0,4123,28567.0,3523.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Heroku,176.0,4123,28567.0,1318.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Homebrew,1150.0,4123,28567.0,6291.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,28.0,4123,28567.0,294.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Kubernetes,1781.0,4123,28567.0,6993.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,MSBuild,391.0,4123,28567.0,2700.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Make,1000.0,4123,28567.0,5682.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),950.0,4123,28567.0,4022.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,948.0,4123,28567.0,6447.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Netlify,124.0,4123,28567.0,1433.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,New Relic,204.0,4123,28567.0,936.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Ninja,147.0,4123,28567.0,1272.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,NuGet,708.0,4123,28567.0,4637.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Pacman,300.0,4123,28567.0,2124.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Pip,1544.0,4123,28567.0,10025.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Podman,513.0,4123,28567.0,2730.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Poetry,414.0,4123,28567.0,2214.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Prometheus,764.0,4123,28567.0,2883.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Railway,44.0,4123,28567.0,360.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Splunk,263.0,4123,28567.0,1105.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Supabase,130.0,4123,28567.0,1320.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Terraform,956.0,4123,28567.0,4349.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Vercel,227.0,4123,28567.0,2602.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Vite,581.0,4123,28567.0,6215.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Webpack,410.0,4123,28567.0,4500.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,21.0,4123,28567.0,165.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,Yarn,723.0,4123,28567.0,5178.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,npm,1994.0,4123,28567.0,13906.0,24258,173140.0
+full,backend,cloud_tools,PlatformHaveWorkedWith,pnpm,363.0,4123,28567.0,3290.0,24258,173140.0
+full,frontend,languages,LanguageHaveWorkedWith,Ada,12.0,1402,6658.0,431.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Assembly,35.0,1402,6658.0,2246.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),417.0,1402,6658.0,15503.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,C,94.0,1402,6658.0,6987.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,C#,170.0,1402,6658.0,8852.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,C++,108.0,1402,6658.0,7485.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,COBOL,6.0,1402,6658.0,308.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Dart,73.0,1402,6658.0,1885.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Delphi,11.0,1402,6658.0,796.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Elixir,11.0,1402,6658.0,847.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Erlang,8.0,1402,6658.0,465.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,F#,5.0,1402,6658.0,406.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Fortran,8.0,1402,6658.0,449.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,GDScript,41.0,1402,6658.0,1062.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Gleam,12.0,1402,6658.0,354.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Go,98.0,1402,6658.0,5219.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Groovy,22.0,1402,6658.0,1535.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,HTML/CSS,1201.0,1402,6658.0,19698.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Java,207.0,1402,6658.0,9358.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,JavaScript,1298.0,1402,6658.0,21005.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Kotlin,84.0,1402,6658.0,3420.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Lisp,14.0,1402,6658.0,753.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Lua,67.0,1402,6658.0,2910.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,MATLAB,21.0,1402,6658.0,1231.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,MicroPython,9.0,1402,6658.0,723.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Mojo,1.0,1402,6658.0,145.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,OCaml,5.0,1402,6658.0,367.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,PHP,259.0,1402,6658.0,5994.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Perl,9.0,1402,6658.0,1215.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,PowerShell,162.0,1402,6658.0,7371.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Prolog,6.0,1402,6658.0,338.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Python,393.0,1402,6658.0,18410.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,R,21.0,1402,6658.0,1569.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Ruby,54.0,1402,6658.0,2046.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Rust,82.0,1402,6658.0,4724.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,SQL,421.0,1402,6658.0,18633.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Scala,7.0,1402,6658.0,843.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Swift,60.0,1402,6658.0,1719.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,TypeScript,1084.0,1402,6658.0,13859.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,VBA,22.0,1402,6658.0,1334.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Visual Basic (.Net),35.0,1402,6658.0,1409.0,31671,194584.0
+full,frontend,languages,LanguageHaveWorkedWith,Zig,5.0,1402,6658.0,680.0,31671,194584.0
+full,frontend,databases,DatabaseHaveWorkedWith,Amazon Redshift,8.0,807,2246.0,611.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,BigQuery,27.0,807,2246.0,1705.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Cassandra,6.0,807,2246.0,766.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Clickhouse,4.0,807,2246.0,627.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Cloud Firestore,83.0,807,2246.0,1494.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Cockroachdb,4.0,807,2246.0,262.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Cosmos DB,16.0,807,2246.0,1190.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Databricks SQL,12.0,807,2246.0,895.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Datomic,2.0,807,2246.0,148.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,DuckDB,9.0,807,2246.0,863.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Dynamodb,50.0,807,2246.0,2551.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Elasticsearch,74.0,807,2246.0,4347.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,83.0,807,2246.0,1299.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,H2,12.0,807,2246.0,1303.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,IBM DB2,4.0,807,2246.0,615.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,InfluxDB,4.0,807,2246.0,963.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,MariaDB,147.0,807,2246.0,5862.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Microsoft Access,21.0,807,2246.0,1244.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,123.0,807,2246.0,7871.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,MongoDB,274.0,807,2246.0,6267.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,MySQL,365.0,807,2246.0,10581.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Neo4J,12.0,807,2246.0,691.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Oracle,36.0,807,2246.0,2761.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Pocketbase,8.0,807,2246.0,262.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,PostgreSQL,386.0,807,2246.0,14529.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Redis,121.0,807,2246.0,7316.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,SQLite,225.0,807,2246.0,9798.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Snowflake,9.0,807,2246.0,1079.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Supabase,114.0,807,2246.0,1558.0,25550,90090.0
+full,frontend,databases,DatabaseHaveWorkedWith,Valkey,7.0,807,2246.0,632.0,25550,90090.0
+full,frontend,web,WebframeHaveWorkedWith,ASP.NET,52.0,1312,4940.0,3360.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,ASP.NET Core,62.0,1312,4940.0,4664.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Angular,331.0,1312,4940.0,4319.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,AngularJS,74.0,1312,4940.0,1718.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Astro,103.0,1312,4940.0,1058.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Axum,6.0,1312,4940.0,671.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Blazor,18.0,1312,4940.0,1648.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Deno,59.0,1312,4940.0,960.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Django,74.0,1312,4940.0,2980.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Drupal,25.0,1312,4940.0,526.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Express,359.0,1312,4940.0,4710.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,FastAPI,66.0,1312,4940.0,3504.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Fastify,33.0,1312,4940.0,692.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Flask,55.0,1312,4940.0,3406.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Laravel,69.0,1312,4940.0,2111.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,NestJS,131.0,1312,4940.0,1596.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Next.js,517.0,1312,4940.0,4933.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Node.js,818.0,1312,4940.0,11544.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Nuxt.js,115.0,1312,4940.0,948.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Phoenix,7.0,1312,4940.0,568.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,React,937.0,1312,4940.0,10596.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Ruby on Rails,41.0,1312,4940.0,1395.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Spring Boot,71.0,1312,4940.0,3481.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Svelte,108.0,1312,4940.0,1717.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Symfony,29.0,1312,4940.0,949.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,Vue.js,305.0,1312,4940.0,4162.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,WordPress,198.0,1312,4940.0,3227.0,22992,86984.0
+full,frontend,web,WebframeHaveWorkedWith,jQuery,277.0,1312,4940.0,5541.0,22992,86984.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,APT,69.0,938,6238.0,4516.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),357.0,938,6238.0,10618.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Ansible,33.0,938,6238.0,2878.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Bun,77.0,938,6238.0,1344.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Cargo,56.0,938,6238.0,3521.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Chocolatey,76.0,938,6238.0,2706.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Cloudflare,188.0,938,6238.0,4923.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Composer,74.0,938,6238.0,2701.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Datadog,70.0,938,6238.0,2169.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,86.0,938,6238.0,2621.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Docker,557.0,938,6238.0,17414.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Firebase,185.0,938,6238.0,3200.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Google Cloud,187.0,938,6238.0,6015.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Gradle,76.0,938,6238.0,3523.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Heroku,62.0,938,6238.0,1318.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Homebrew,268.0,938,6238.0,6291.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,7.0,938,6238.0,294.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Kubernetes,134.0,938,6238.0,6993.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,MSBuild,20.0,938,6238.0,2700.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Make,79.0,938,6238.0,5682.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),68.0,938,6238.0,4022.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,151.0,938,6238.0,6447.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Netlify,144.0,938,6238.0,1433.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,New Relic,27.0,938,6238.0,936.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Ninja,12.0,938,6238.0,1272.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,NuGet,62.0,938,6238.0,4637.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Pacman,36.0,938,6238.0,2124.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Pip,173.0,938,6238.0,10025.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Podman,41.0,938,6238.0,2730.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Poetry,30.0,938,6238.0,2214.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Prometheus,20.0,938,6238.0,2883.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Railway,21.0,938,6238.0,360.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Splunk,24.0,938,6238.0,1105.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Supabase,89.0,938,6238.0,1320.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Terraform,57.0,938,6238.0,4349.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Vercel,234.0,938,6238.0,2602.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Vite,551.0,938,6238.0,6215.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Webpack,430.0,938,6238.0,4500.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,4.0,938,6238.0,165.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,Yarn,374.0,938,6238.0,5178.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,npm,746.0,938,6238.0,13906.0,24258,173140.0
+full,frontend,cloud_tools,PlatformHaveWorkedWith,pnpm,283.0,938,6238.0,3290.0,24258,173140.0
+full,desktop,languages,LanguageHaveWorkedWith,Ada,12.0,1489,8666.0,431.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Assembly,117.0,1489,8666.0,2246.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),614.0,1489,8666.0,15503.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,C,451.0,1489,8666.0,6987.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,C#,698.0,1489,8666.0,8852.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,C++,643.0,1489,8666.0,7485.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,COBOL,17.0,1489,8666.0,308.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Dart,48.0,1489,8666.0,1885.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Delphi,201.0,1489,8666.0,796.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Elixir,10.0,1489,8666.0,847.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Erlang,7.0,1489,8666.0,465.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,F#,24.0,1489,8666.0,406.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Fortran,23.0,1489,8666.0,449.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,GDScript,42.0,1489,8666.0,1062.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Gleam,14.0,1489,8666.0,354.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Go,149.0,1489,8666.0,5219.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Groovy,61.0,1489,8666.0,1535.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,HTML/CSS,729.0,1489,8666.0,19698.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Java,390.0,1489,8666.0,9358.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,JavaScript,746.0,1489,8666.0,21005.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Kotlin,126.0,1489,8666.0,3420.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Lisp,29.0,1489,8666.0,753.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Lua,117.0,1489,8666.0,2910.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,MATLAB,54.0,1489,8666.0,1231.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,MicroPython,16.0,1489,8666.0,723.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Mojo,6.0,1489,8666.0,145.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,OCaml,16.0,1489,8666.0,367.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,PHP,173.0,1489,8666.0,5994.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Perl,74.0,1489,8666.0,1215.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,PowerShell,478.0,1489,8666.0,7371.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Prolog,6.0,1489,8666.0,338.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Python,723.0,1489,8666.0,18410.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,R,28.0,1489,8666.0,1569.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Ruby,33.0,1489,8666.0,2046.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Rust,196.0,1489,8666.0,4724.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,SQL,842.0,1489,8666.0,18633.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Scala,28.0,1489,8666.0,843.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Swift,72.0,1489,8666.0,1719.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,TypeScript,371.0,1489,8666.0,13859.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,VBA,121.0,1489,8666.0,1334.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Visual Basic (.Net),130.0,1489,8666.0,1409.0,31671,194584.0
+full,desktop,languages,LanguageHaveWorkedWith,Zig,31.0,1489,8666.0,680.0,31671,194584.0
+full,desktop,databases,DatabaseHaveWorkedWith,Amazon Redshift,11.0,1088,3075.0,611.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,BigQuery,28.0,1088,3075.0,1705.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Cassandra,19.0,1088,3075.0,766.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Clickhouse,11.0,1088,3075.0,627.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Cloud Firestore,34.0,1088,3075.0,1494.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Cockroachdb,8.0,1088,3075.0,262.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Cosmos DB,31.0,1088,3075.0,1190.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Databricks SQL,22.0,1088,3075.0,895.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Datomic,9.0,1088,3075.0,148.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,DuckDB,16.0,1088,3075.0,863.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Dynamodb,30.0,1088,3075.0,2551.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Elasticsearch,76.0,1088,3075.0,4347.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,38.0,1088,3075.0,1299.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,H2,51.0,1088,3075.0,1303.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,IBM DB2,33.0,1088,3075.0,615.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,InfluxDB,22.0,1088,3075.0,963.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,MariaDB,194.0,1088,3075.0,5862.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Microsoft Access,102.0,1088,3075.0,1244.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,561.0,1088,3075.0,7871.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,MongoDB,124.0,1088,3075.0,6267.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,MySQL,352.0,1088,3075.0,10581.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Neo4J,21.0,1088,3075.0,691.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Oracle,184.0,1088,3075.0,2761.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Pocketbase,5.0,1088,3075.0,262.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,PostgreSQL,456.0,1088,3075.0,14529.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Redis,107.0,1088,3075.0,7316.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,SQLite,478.0,1088,3075.0,9798.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Snowflake,16.0,1088,3075.0,1079.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Supabase,26.0,1088,3075.0,1558.0,25550,90090.0
+full,desktop,databases,DatabaseHaveWorkedWith,Valkey,10.0,1088,3075.0,632.0,25550,90090.0
+full,desktop,web,WebframeHaveWorkedWith,ASP.NET,212.0,796,2525.0,3360.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,ASP.NET Core,277.0,796,2525.0,4664.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Angular,148.0,796,2525.0,4319.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,AngularJS,46.0,796,2525.0,1718.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Astro,17.0,796,2525.0,1058.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Axum,35.0,796,2525.0,671.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Blazor,134.0,796,2525.0,1648.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Deno,24.0,796,2525.0,960.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Django,59.0,796,2525.0,2980.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Drupal,9.0,796,2525.0,526.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Express,77.0,796,2525.0,4710.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,FastAPI,62.0,796,2525.0,3504.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Fastify,11.0,796,2525.0,692.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Flask,85.0,796,2525.0,3406.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Laravel,33.0,796,2525.0,2111.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,NestJS,20.0,796,2525.0,1596.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Next.js,80.0,796,2525.0,4933.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Node.js,316.0,796,2525.0,11544.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Nuxt.js,15.0,796,2525.0,948.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Phoenix,8.0,796,2525.0,568.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,React,247.0,796,2525.0,10596.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Ruby on Rails,16.0,796,2525.0,1395.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Spring Boot,124.0,796,2525.0,3481.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Svelte,46.0,796,2525.0,1717.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Symfony,19.0,796,2525.0,949.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,Vue.js,98.0,796,2525.0,4162.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,WordPress,101.0,796,2525.0,3227.0,22992,86984.0
+full,desktop,web,WebframeHaveWorkedWith,jQuery,206.0,796,2525.0,5541.0,22992,86984.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,APT,160.0,914,4928.0,4516.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),242.0,914,4928.0,10618.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Ansible,58.0,914,4928.0,2878.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Bun,21.0,914,4928.0,1344.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Cargo,117.0,914,4928.0,3521.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Chocolatey,135.0,914,4928.0,2706.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Cloudflare,103.0,914,4928.0,4923.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Composer,54.0,914,4928.0,2701.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Datadog,18.0,914,4928.0,2169.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,54.0,914,4928.0,2621.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Docker,523.0,914,4928.0,17414.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Firebase,68.0,914,4928.0,3200.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Google Cloud,135.0,914,4928.0,6015.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Gradle,112.0,914,4928.0,3523.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Heroku,26.0,914,4928.0,1318.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Homebrew,118.0,914,4928.0,6291.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,10.0,914,4928.0,294.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Kubernetes,138.0,914,4928.0,6993.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,MSBuild,298.0,914,4928.0,2700.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Make,213.0,914,4928.0,5682.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),164.0,914,4928.0,4022.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,300.0,914,4928.0,6447.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Netlify,27.0,914,4928.0,1433.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,New Relic,10.0,914,4928.0,936.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Ninja,95.0,914,4928.0,1272.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,NuGet,342.0,914,4928.0,4637.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Pacman,86.0,914,4928.0,2124.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Pip,301.0,914,4928.0,10025.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Podman,66.0,914,4928.0,2730.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Poetry,40.0,914,4928.0,2214.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Prometheus,43.0,914,4928.0,2883.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Railway,8.0,914,4928.0,360.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Splunk,24.0,914,4928.0,1105.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Supabase,18.0,914,4928.0,1320.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Terraform,56.0,914,4928.0,4349.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Vercel,33.0,914,4928.0,2602.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Vite,118.0,914,4928.0,6215.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Webpack,77.0,914,4928.0,4500.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,8.0,914,4928.0,165.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,Yarn,80.0,914,4928.0,5178.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,npm,369.0,914,4928.0,13906.0,24258,173140.0
+full,desktop,cloud_tools,PlatformHaveWorkedWith,pnpm,60.0,914,4928.0,3290.0,24258,173140.0
+full,mobile,languages,LanguageHaveWorkedWith,Ada,14.0,931,4874.0,431.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Assembly,32.0,931,4874.0,2246.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),297.0,931,4874.0,15503.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,C,143.0,931,4874.0,6987.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,C#,137.0,931,4874.0,8852.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,C++,157.0,931,4874.0,7485.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,COBOL,9.0,931,4874.0,308.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Dart,285.0,931,4874.0,1885.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Delphi,11.0,931,4874.0,796.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Elixir,14.0,931,4874.0,847.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Erlang,9.0,931,4874.0,465.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,F#,11.0,931,4874.0,406.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Fortran,8.0,931,4874.0,449.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,GDScript,25.0,931,4874.0,1062.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Gleam,4.0,931,4874.0,354.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Go,79.0,931,4874.0,5219.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Groovy,96.0,931,4874.0,1535.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,HTML/CSS,335.0,931,4874.0,19698.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Java,382.0,931,4874.0,9358.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,JavaScript,417.0,931,4874.0,21005.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Kotlin,527.0,931,4874.0,3420.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Lisp,13.0,931,4874.0,753.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Lua,38.0,931,4874.0,2910.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,MATLAB,14.0,931,4874.0,1231.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,MicroPython,11.0,931,4874.0,723.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Mojo,6.0,931,4874.0,145.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,OCaml,7.0,931,4874.0,367.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,PHP,96.0,931,4874.0,5994.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Perl,17.0,931,4874.0,1215.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,PowerShell,77.0,931,4874.0,7371.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Prolog,13.0,931,4874.0,338.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Python,321.0,931,4874.0,18410.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,R,18.0,931,4874.0,1569.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Ruby,76.0,931,4874.0,2046.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Rust,63.0,931,4874.0,4724.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,SQL,305.0,931,4874.0,18633.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Scala,15.0,931,4874.0,843.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Swift,489.0,931,4874.0,1719.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,TypeScript,268.0,931,4874.0,13859.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,VBA,9.0,931,4874.0,1334.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Visual Basic (.Net),17.0,931,4874.0,1409.0,31671,194584.0
+full,mobile,languages,LanguageHaveWorkedWith,Zig,9.0,931,4874.0,680.0,31671,194584.0
+full,mobile,databases,DatabaseHaveWorkedWith,Amazon Redshift,5.0,547,1636.0,611.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,BigQuery,40.0,547,1636.0,1705.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Cassandra,10.0,547,1636.0,766.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Clickhouse,11.0,547,1636.0,627.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Cloud Firestore,134.0,547,1636.0,1494.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Cockroachdb,6.0,547,1636.0,262.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Cosmos DB,11.0,547,1636.0,1190.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Databricks SQL,7.0,547,1636.0,895.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Datomic,4.0,547,1636.0,148.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,DuckDB,9.0,547,1636.0,863.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Dynamodb,28.0,547,1636.0,2551.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Elasticsearch,28.0,547,1636.0,4347.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,132.0,547,1636.0,1299.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,H2,14.0,547,1636.0,1303.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,IBM DB2,7.0,547,1636.0,615.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,InfluxDB,10.0,547,1636.0,963.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,MariaDB,66.0,547,1636.0,5862.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Microsoft Access,13.0,547,1636.0,1244.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,61.0,547,1636.0,7871.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,MongoDB,125.0,547,1636.0,6267.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,MySQL,186.0,547,1636.0,10581.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Neo4J,7.0,547,1636.0,691.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Oracle,33.0,547,1636.0,2761.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Pocketbase,8.0,547,1636.0,262.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,PostgreSQL,193.0,547,1636.0,14529.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Redis,51.0,547,1636.0,7316.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,SQLite,352.0,547,1636.0,9798.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Snowflake,9.0,547,1636.0,1079.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Supabase,71.0,547,1636.0,1558.0,25550,90090.0
+full,mobile,databases,DatabaseHaveWorkedWith,Valkey,5.0,547,1636.0,632.0,25550,90090.0
+full,mobile,web,WebframeHaveWorkedWith,ASP.NET,38.0,396,1261.0,3360.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,ASP.NET Core,42.0,396,1261.0,4664.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Angular,55.0,396,1261.0,4319.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,AngularJS,27.0,396,1261.0,1718.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Astro,13.0,396,1261.0,1058.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Axum,5.0,396,1261.0,671.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Blazor,13.0,396,1261.0,1648.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Deno,14.0,396,1261.0,960.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Django,35.0,396,1261.0,2980.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Drupal,6.0,396,1261.0,526.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Express,85.0,396,1261.0,4710.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,FastAPI,40.0,396,1261.0,3504.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Fastify,9.0,396,1261.0,692.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Flask,36.0,396,1261.0,3406.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Laravel,46.0,396,1261.0,2111.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,NestJS,26.0,396,1261.0,1596.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Next.js,95.0,396,1261.0,4933.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Node.js,184.0,396,1261.0,11544.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Nuxt.js,20.0,396,1261.0,948.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Phoenix,9.0,396,1261.0,568.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,React,211.0,396,1261.0,10596.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Ruby on Rails,22.0,396,1261.0,1395.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Spring Boot,40.0,396,1261.0,3481.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Svelte,20.0,396,1261.0,1717.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Symfony,5.0,396,1261.0,949.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,Vue.js,49.0,396,1261.0,4162.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,WordPress,58.0,396,1261.0,3227.0,22992,86984.0
+full,mobile,web,WebframeHaveWorkedWith,jQuery,58.0,396,1261.0,5541.0,22992,86984.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,APT,41.0,557,3307.0,4516.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),177.0,557,3307.0,10618.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Ansible,25.0,557,3307.0,2878.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Bun,23.0,557,3307.0,1344.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Cargo,39.0,557,3307.0,3521.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Chocolatey,36.0,557,3307.0,2706.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Cloudflare,77.0,557,3307.0,4923.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Composer,32.0,557,3307.0,2701.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Datadog,42.0,557,3307.0,2169.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,54.0,557,3307.0,2621.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Docker,259.0,557,3307.0,17414.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Firebase,361.0,557,3307.0,3200.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Google Cloud,209.0,557,3307.0,6015.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Gradle,272.0,557,3307.0,3523.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Heroku,33.0,557,3307.0,1318.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Homebrew,284.0,557,3307.0,6291.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,9.0,557,3307.0,294.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Kubernetes,58.0,557,3307.0,6993.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,MSBuild,26.0,557,3307.0,2700.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Make,67.0,557,3307.0,5682.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),86.0,557,3307.0,4022.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,93.0,557,3307.0,6447.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Netlify,31.0,557,3307.0,1433.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,New Relic,17.0,557,3307.0,936.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Ninja,24.0,557,3307.0,1272.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,NuGet,42.0,557,3307.0,4637.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Pacman,17.0,557,3307.0,2124.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Pip,140.0,557,3307.0,10025.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Podman,18.0,557,3307.0,2730.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Poetry,12.0,557,3307.0,2214.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Prometheus,19.0,557,3307.0,2883.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Railway,9.0,557,3307.0,360.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Splunk,20.0,557,3307.0,1105.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Supabase,57.0,557,3307.0,1320.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Terraform,33.0,557,3307.0,4349.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Vercel,55.0,557,3307.0,2602.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Vite,75.0,557,3307.0,6215.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Webpack,47.0,557,3307.0,4500.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,9.0,557,3307.0,165.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,Yarn,97.0,557,3307.0,5178.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,npm,250.0,557,3307.0,13906.0,24258,173140.0
+full,mobile,cloud_tools,PlatformHaveWorkedWith,pnpm,32.0,557,3307.0,3290.0,24258,173140.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Ada,14.0,441,2521.0,431.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Assembly,27.0,441,2521.0,2246.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),231.0,441,2521.0,15503.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,C,79.0,441,2521.0,6987.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,C#,70.0,441,2521.0,8852.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,C++,129.0,441,2521.0,7485.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,COBOL,6.0,441,2521.0,308.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Dart,23.0,441,2521.0,1885.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Delphi,6.0,441,2521.0,796.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Elixir,9.0,441,2521.0,847.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Erlang,7.0,441,2521.0,465.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,F#,8.0,441,2521.0,406.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Fortran,10.0,441,2521.0,449.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,GDScript,10.0,441,2521.0,1062.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Gleam,4.0,441,2521.0,354.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Go,76.0,441,2521.0,5219.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Groovy,14.0,441,2521.0,1535.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,HTML/CSS,200.0,441,2521.0,19698.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Java,106.0,441,2521.0,9358.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,JavaScript,218.0,441,2521.0,21005.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Kotlin,33.0,441,2521.0,3420.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Lisp,9.0,441,2521.0,753.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Lua,27.0,441,2521.0,2910.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,MATLAB,39.0,441,2521.0,1231.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,MicroPython,11.0,441,2521.0,723.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Mojo,5.0,441,2521.0,145.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,OCaml,6.0,441,2521.0,367.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,PHP,38.0,441,2521.0,5994.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Perl,14.0,441,2521.0,1215.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,PowerShell,79.0,441,2521.0,7371.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Prolog,8.0,441,2521.0,338.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Python,416.0,441,2521.0,18410.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,R,47.0,441,2521.0,1569.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Ruby,15.0,441,2521.0,2046.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Rust,73.0,441,2521.0,4724.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,SQL,256.0,441,2521.0,18633.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Scala,17.0,441,2521.0,843.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Swift,11.0,441,2521.0,1719.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,TypeScript,136.0,441,2521.0,13859.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,VBA,14.0,441,2521.0,1334.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Visual Basic (.Net),14.0,441,2521.0,1409.0,31671,194584.0
+full,ml_engineer,languages,LanguageHaveWorkedWith,Zig,6.0,441,2521.0,680.0,31671,194584.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Amazon Redshift,17.0,363,1424.0,611.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,BigQuery,64.0,363,1424.0,1705.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Cassandra,20.0,363,1424.0,766.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Clickhouse,15.0,363,1424.0,627.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Cloud Firestore,29.0,363,1424.0,1494.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Cockroachdb,2.0,363,1424.0,262.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Cosmos DB,25.0,363,1424.0,1190.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Databricks SQL,42.0,363,1424.0,895.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Datomic,4.0,363,1424.0,148.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,DuckDB,38.0,363,1424.0,863.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Dynamodb,37.0,363,1424.0,2551.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Elasticsearch,71.0,363,1424.0,4347.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,13.0,363,1424.0,1299.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,H2,9.0,363,1424.0,1303.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,IBM DB2,7.0,363,1424.0,615.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,InfluxDB,16.0,363,1424.0,963.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,MariaDB,49.0,363,1424.0,5862.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Microsoft Access,14.0,363,1424.0,1244.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,69.0,363,1424.0,7871.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,MongoDB,110.0,363,1424.0,6267.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,MySQL,144.0,363,1424.0,10581.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Neo4J,36.0,363,1424.0,691.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Oracle,33.0,363,1424.0,2761.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Pocketbase,3.0,363,1424.0,262.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,PostgreSQL,229.0,363,1424.0,14529.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Redis,107.0,363,1424.0,7316.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,SQLite,148.0,363,1424.0,9798.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Snowflake,28.0,363,1424.0,1079.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Supabase,34.0,363,1424.0,1558.0,25550,90090.0
+full,ml_engineer,databases,DatabaseHaveWorkedWith,Valkey,11.0,363,1424.0,632.0,25550,90090.0
+full,ml_engineer,web,WebframeHaveWorkedWith,ASP.NET,20.0,286,1048.0,3360.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,ASP.NET Core,24.0,286,1048.0,4664.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Angular,35.0,286,1048.0,4319.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,AngularJS,23.0,286,1048.0,1718.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Astro,8.0,286,1048.0,1058.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Axum,7.0,286,1048.0,671.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Blazor,6.0,286,1048.0,1648.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Deno,11.0,286,1048.0,960.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Django,65.0,286,1048.0,2980.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Drupal,6.0,286,1048.0,526.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Express,45.0,286,1048.0,4710.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,FastAPI,179.0,286,1048.0,3504.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Fastify,10.0,286,1048.0,692.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Flask,96.0,286,1048.0,3406.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Laravel,14.0,286,1048.0,2111.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,NestJS,17.0,286,1048.0,1596.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Next.js,71.0,286,1048.0,4933.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Node.js,118.0,286,1048.0,11544.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Nuxt.js,7.0,286,1048.0,948.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Phoenix,4.0,286,1048.0,568.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,React,127.0,286,1048.0,10596.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Ruby on Rails,6.0,286,1048.0,1395.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Spring Boot,25.0,286,1048.0,3481.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Svelte,21.0,286,1048.0,1717.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Symfony,6.0,286,1048.0,949.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,Vue.js,40.0,286,1048.0,4162.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,WordPress,22.0,286,1048.0,3227.0,22992,86984.0
+full,ml_engineer,web,WebframeHaveWorkedWith,jQuery,35.0,286,1048.0,5541.0,22992,86984.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,APT,73.0,382,2652.0,4516.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),204.0,382,2652.0,10618.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Ansible,30.0,382,2652.0,2878.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Bun,24.0,382,2652.0,1344.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Cargo,56.0,382,2652.0,3521.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Chocolatey,38.0,382,2652.0,2706.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Cloudflare,54.0,382,2652.0,4923.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Composer,24.0,382,2652.0,2701.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Datadog,28.0,382,2652.0,2169.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,32.0,382,2652.0,2621.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Docker,310.0,382,2652.0,17414.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Firebase,42.0,382,2652.0,3200.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Google Cloud,142.0,382,2652.0,6015.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Gradle,28.0,382,2652.0,3523.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Heroku,15.0,382,2652.0,1318.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Homebrew,109.0,382,2652.0,6291.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,8.0,382,2652.0,294.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Kubernetes,133.0,382,2652.0,6993.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,MSBuild,20.0,382,2652.0,2700.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Make,105.0,382,2652.0,5682.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),28.0,382,2652.0,4022.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,98.0,382,2652.0,6447.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Netlify,31.0,382,2652.0,1433.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,New Relic,9.0,382,2652.0,936.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Ninja,17.0,382,2652.0,1272.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,NuGet,19.0,382,2652.0,4637.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Pacman,20.0,382,2652.0,2124.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Pip,286.0,382,2652.0,10025.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Podman,39.0,382,2652.0,2730.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Poetry,113.0,382,2652.0,2214.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Prometheus,37.0,382,2652.0,2883.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Railway,6.0,382,2652.0,360.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Splunk,7.0,382,2652.0,1105.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Supabase,27.0,382,2652.0,1320.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Terraform,70.0,382,2652.0,4349.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Vercel,35.0,382,2652.0,2602.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Vite,59.0,382,2652.0,6215.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Webpack,33.0,382,2652.0,4500.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,2.0,382,2652.0,165.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Yarn,46.0,382,2652.0,5178.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,npm,160.0,382,2652.0,13906.0,24258,173140.0
+full,ml_engineer,cloud_tools,PlatformHaveWorkedWith,pnpm,35.0,382,2652.0,3290.0,24258,173140.0
+full,embedded,languages,LanguageHaveWorkedWith,Ada,38.0,968,5957.0,431.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Assembly,279.0,968,5957.0,2246.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),648.0,968,5957.0,15503.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,C,774.0,968,5957.0,6987.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,C#,191.0,968,5957.0,8852.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,C++,707.0,968,5957.0,7485.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,COBOL,4.0,968,5957.0,308.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Dart,22.0,968,5957.0,1885.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Delphi,22.0,968,5957.0,796.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Elixir,12.0,968,5957.0,847.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Erlang,12.0,968,5957.0,465.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,F#,5.0,968,5957.0,406.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Fortran,11.0,968,5957.0,449.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,GDScript,34.0,968,5957.0,1062.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Gleam,7.0,968,5957.0,354.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Go,98.0,968,5957.0,5219.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Groovy,50.0,968,5957.0,1535.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,HTML/CSS,317.0,968,5957.0,19698.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Java,180.0,968,5957.0,9358.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,JavaScript,324.0,968,5957.0,21005.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Kotlin,64.0,968,5957.0,3420.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Lisp,26.0,968,5957.0,753.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Lua,132.0,968,5957.0,2910.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,MATLAB,98.0,968,5957.0,1231.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,MicroPython,59.0,968,5957.0,723.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Mojo,5.0,968,5957.0,145.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,OCaml,9.0,968,5957.0,367.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,PHP,65.0,968,5957.0,5994.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Perl,43.0,968,5957.0,1215.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,PowerShell,178.0,968,5957.0,7371.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Prolog,10.0,968,5957.0,338.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Python,758.0,968,5957.0,18410.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,R,18.0,968,5957.0,1569.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Ruby,24.0,968,5957.0,2046.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Rust,230.0,968,5957.0,4724.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,SQL,228.0,968,5957.0,18633.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Scala,6.0,968,5957.0,843.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Swift,28.0,968,5957.0,1719.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,TypeScript,159.0,968,5957.0,13859.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,VBA,24.0,968,5957.0,1334.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Visual Basic (.Net),24.0,968,5957.0,1409.0,31671,194584.0
+full,embedded,languages,LanguageHaveWorkedWith,Zig,34.0,968,5957.0,680.0,31671,194584.0
+full,embedded,databases,DatabaseHaveWorkedWith,Amazon Redshift,7.0,353,953.0,611.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,BigQuery,13.0,353,953.0,1705.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Cassandra,8.0,353,953.0,766.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Clickhouse,4.0,353,953.0,627.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Cloud Firestore,11.0,353,953.0,1494.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Cockroachdb,3.0,353,953.0,262.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Cosmos DB,7.0,353,953.0,1190.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Databricks SQL,7.0,353,953.0,895.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Datomic,3.0,353,953.0,148.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,DuckDB,5.0,353,953.0,863.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Dynamodb,18.0,353,953.0,2551.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Elasticsearch,33.0,353,953.0,4347.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,9.0,353,953.0,1299.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,H2,11.0,353,953.0,1303.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,IBM DB2,4.0,353,953.0,615.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,InfluxDB,39.0,353,953.0,963.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,MariaDB,85.0,353,953.0,5862.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Microsoft Access,16.0,353,953.0,1244.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,57.0,353,953.0,7871.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,MongoDB,54.0,353,953.0,6267.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,MySQL,121.0,353,953.0,10581.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Neo4J,7.0,353,953.0,691.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Oracle,19.0,353,953.0,2761.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Pocketbase,3.0,353,953.0,262.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,PostgreSQL,162.0,353,953.0,14529.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Redis,40.0,353,953.0,7316.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,SQLite,189.0,353,953.0,9798.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Snowflake,4.0,353,953.0,1079.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Supabase,7.0,353,953.0,1558.0,25550,90090.0
+full,embedded,databases,DatabaseHaveWorkedWith,Valkey,7.0,353,953.0,632.0,25550,90090.0
+full,embedded,web,WebframeHaveWorkedWith,ASP.NET,20.0,264,750.0,3360.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,ASP.NET Core,23.0,264,750.0,4664.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Angular,35.0,264,750.0,4319.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,AngularJS,11.0,264,750.0,1718.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Astro,4.0,264,750.0,1058.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Axum,13.0,264,750.0,671.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Blazor,12.0,264,750.0,1648.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Deno,11.0,264,750.0,960.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Django,38.0,264,750.0,2980.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Drupal,4.0,264,750.0,526.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Express,34.0,264,750.0,4710.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,FastAPI,37.0,264,750.0,3504.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Fastify,3.0,264,750.0,692.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Flask,71.0,264,750.0,3406.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Laravel,4.0,264,750.0,2111.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,NestJS,6.0,264,750.0,1596.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Next.js,30.0,264,750.0,4933.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Node.js,122.0,264,750.0,11544.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Nuxt.js,8.0,264,750.0,948.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Phoenix,4.0,264,750.0,568.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,React,89.0,264,750.0,10596.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Ruby on Rails,7.0,264,750.0,1395.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Spring Boot,14.0,264,750.0,3481.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Svelte,22.0,264,750.0,1717.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Symfony,3.0,264,750.0,949.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,Vue.js,53.0,264,750.0,4162.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,WordPress,32.0,264,750.0,3227.0,22992,86984.0
+full,embedded,web,WebframeHaveWorkedWith,jQuery,40.0,264,750.0,5541.0,22992,86984.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,APT,187.0,547,3199.0,4516.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),131.0,547,3199.0,10618.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Ansible,72.0,547,3199.0,2878.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Bun,13.0,547,3199.0,1344.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Cargo,141.0,547,3199.0,3521.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Chocolatey,54.0,547,3199.0,2706.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Cloudflare,62.0,547,3199.0,4923.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Composer,22.0,547,3199.0,2701.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Datadog,10.0,547,3199.0,2169.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,28.0,547,3199.0,2621.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Docker,399.0,547,3199.0,17414.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Firebase,31.0,547,3199.0,3200.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Google Cloud,66.0,547,3199.0,6015.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Gradle,67.0,547,3199.0,3523.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Heroku,5.0,547,3199.0,1318.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Homebrew,62.0,547,3199.0,6291.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,8.0,547,3199.0,294.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Kubernetes,63.0,547,3199.0,6993.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,MSBuild,57.0,547,3199.0,2700.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Make,324.0,547,3199.0,5682.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),40.0,547,3199.0,4022.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,74.0,547,3199.0,6447.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Netlify,11.0,547,3199.0,1433.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,New Relic,5.0,547,3199.0,936.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Ninja,196.0,547,3199.0,1272.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,NuGet,58.0,547,3199.0,4637.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Pacman,106.0,547,3199.0,2124.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Pip,328.0,547,3199.0,10025.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Podman,80.0,547,3199.0,2730.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Poetry,55.0,547,3199.0,2214.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Prometheus,33.0,547,3199.0,2883.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Railway,1.0,547,3199.0,360.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Splunk,12.0,547,3199.0,1105.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Supabase,10.0,547,3199.0,1320.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Terraform,32.0,547,3199.0,4349.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Vercel,20.0,547,3199.0,2602.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Vite,60.0,547,3199.0,6215.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Webpack,28.0,547,3199.0,4500.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,5.0,547,3199.0,165.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,Yarn,50.0,547,3199.0,5178.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,npm,167.0,547,3199.0,13906.0,24258,173140.0
+full,embedded,cloud_tools,PlatformHaveWorkedWith,pnpm,26.0,547,3199.0,3290.0,24258,173140.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Ada,28.0,6975,47624.0,146.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Assembly,223.0,6975,47624.0,942.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),3431.0,6975,47624.0,9374.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,C,897.0,6975,47624.0,3038.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,C#,2503.0,6975,47624.0,5652.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,C++,976.0,6975,47624.0,3227.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,COBOL,35.0,6975,47624.0,157.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Dart,505.0,6975,47624.0,1204.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Delphi,92.0,6975,47624.0,304.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Elixir,222.0,6975,47624.0,598.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Erlang,101.0,6975,47624.0,289.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,F#,69.0,6975,47624.0,234.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Fortran,26.0,6975,47624.0,154.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,GDScript,223.0,6975,47624.0,607.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Gleam,72.0,6975,47624.0,223.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Go,1190.0,6975,47624.0,3574.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Groovy,301.0,6975,47624.0,964.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,HTML/CSS,5956.0,6975,47624.0,13228.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Java,2099.0,6975,47624.0,5832.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,JavaScript,6302.0,6975,47624.0,14323.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Kotlin,749.0,6975,47624.0,2138.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Lisp,101.0,6975,47624.0,365.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Lua,632.0,6975,47624.0,1734.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,MATLAB,124.0,6975,47624.0,508.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,MicroPython,94.0,6975,47624.0,377.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Mojo,10.0,6975,47624.0,70.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,OCaml,36.0,6975,47624.0,170.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,PHP,1941.0,6975,47624.0,4202.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Perl,195.0,6975,47624.0,669.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,PowerShell,1855.0,6975,47624.0,4792.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Prolog,38.0,6975,47624.0,171.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Python,3556.0,6975,47624.0,10460.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,R,163.0,6975,47624.0,747.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Ruby,628.0,6975,47624.0,1513.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Rust,917.0,6975,47624.0,2764.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,SQL,5287.0,6975,47624.0,12795.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Scala,107.0,6975,47624.0,512.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Swift,299.0,6975,47624.0,875.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,TypeScript,4945.0,6975,47624.0,10565.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,VBA,232.0,6975,47624.0,670.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Visual Basic (.Net),356.0,6975,47624.0,849.0,17691,121382.0
+complete,fullstack,languages,LanguageHaveWorkedWith,Zig,108.0,6975,47624.0,366.0,17691,121382.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Amazon Redshift,98.0,6975,25497.0,427.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,BigQuery,339.0,6975,25497.0,1245.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Cassandra,155.0,6975,25497.0,564.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Clickhouse,107.0,6975,25497.0,449.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Cloud Firestore,437.0,6975,25497.0,1173.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Cockroachdb,39.0,6975,25497.0,177.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Cosmos DB,351.0,6975,25497.0,1000.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Databricks SQL,115.0,6975,25497.0,573.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Datomic,23.0,6975,25497.0,76.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,DuckDB,133.0,6975,25497.0,609.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Dynamodb,733.0,6975,25497.0,2121.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Elasticsearch,1216.0,6975,25497.0,3543.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,374.0,6975,25497.0,960.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,H2,369.0,6975,25497.0,1022.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,IBM DB2,128.0,6975,25497.0,389.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,InfluxDB,209.0,6975,25497.0,721.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,MariaDB,1837.0,6975,25497.0,4378.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Microsoft Access,223.0,6975,25497.0,717.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,2408.0,6975,25497.0,5487.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,MongoDB,1943.0,6975,25497.0,4945.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,MySQL,3087.0,6975,25497.0,7662.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Neo4J,126.0,6975,25497.0,519.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Oracle,670.0,6975,25497.0,1807.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Pocketbase,64.0,6975,25497.0,199.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,PostgreSQL,4323.0,6975,25497.0,11158.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Redis,2392.0,6975,25497.0,6160.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,SQLite,2663.0,6975,25497.0,7077.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Snowflake,216.0,6975,25497.0,770.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Supabase,580.0,6975,25497.0,1303.0,17691,67745.0
+complete,fullstack,databases,DatabaseHaveWorkedWith,Valkey,139.0,6975,25497.0,514.0,17691,67745.0
+complete,fullstack,web,WebframeHaveWorkedWith,ASP.NET,1281.0,6975,30851.0,2691.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,ASP.NET Core,1776.0,6975,30851.0,3836.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Angular,1678.0,6975,30851.0,3496.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,AngularJS,634.0,6975,30851.0,1414.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Astro,366.0,6975,30851.0,862.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Axum,151.0,6975,30851.0,537.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Blazor,614.0,6975,30851.0,1329.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Deno,328.0,6975,30851.0,811.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Django,819.0,6975,30851.0,2447.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Drupal,174.0,6975,30851.0,435.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Express,1847.0,6975,30851.0,3918.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,FastAPI,892.0,6975,30851.0,3042.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Fastify,272.0,6975,30851.0,615.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Flask,789.0,6975,30851.0,2815.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Laravel,854.0,6975,30851.0,1711.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,NestJS,677.0,6975,30851.0,1365.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Next.js,1892.0,6975,30851.0,3998.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Node.js,4111.0,6975,30851.0,9248.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Nuxt.js,350.0,6975,30851.0,773.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Phoenix,188.0,6975,30851.0,484.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,React,3894.0,6975,30851.0,8434.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Ruby on Rails,535.0,6975,30851.0,1220.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Spring Boot,1044.0,6975,30851.0,2983.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Svelte,593.0,6975,30851.0,1378.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Symfony,371.0,6975,30851.0,822.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,Vue.js,1589.0,6975,30851.0,3345.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,WordPress,1040.0,6975,30851.0,2509.0,17691,70791.0
+complete,fullstack,web,WebframeHaveWorkedWith,jQuery,2092.0,6975,30851.0,4273.0,17691,70791.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,APT,1092.0,6975,54025.0,3320.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),3201.0,6975,54025.0,8309.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Ansible,612.0,6975,54025.0,2104.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Bun,551.0,6975,54025.0,1208.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Cargo,836.0,6975,54025.0,2554.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Chocolatey,803.0,6975,54025.0,2133.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Cloudflare,1635.0,6975,54025.0,4146.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Composer,1126.0,6975,54025.0,2426.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Datadog,606.0,6975,54025.0,1765.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,958.0,6975,54025.0,2245.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Docker,5217.0,6975,54025.0,13446.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Firebase,1044.0,6975,54025.0,2612.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Google Cloud,1692.0,6975,54025.0,4661.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Gradle,979.0,6975,54025.0,2727.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Heroku,511.0,6975,54025.0,1170.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Homebrew,1847.0,6975,54025.0,4931.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,47.0,6975,54025.0,211.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Kubernetes,1764.0,6975,54025.0,5472.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,MSBuild,847.0,6975,54025.0,2135.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Make,1214.0,6975,54025.0,3863.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),1098.0,6975,54025.0,3183.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,2048.0,6975,54025.0,5108.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Netlify,532.0,6975,54025.0,1214.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,New Relic,302.0,6975,54025.0,804.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Ninja,139.0,6975,54025.0,695.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,NuGet,1741.0,6975,54025.0,3899.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Pacman,498.0,6975,54025.0,1487.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Pip,2458.0,6975,54025.0,7358.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Podman,644.0,6975,54025.0,2018.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Poetry,467.0,6975,54025.0,1689.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Prometheus,632.0,6975,54025.0,2277.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Railway,145.0,6975,54025.0,323.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Splunk,233.0,6975,54025.0,820.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Supabase,522.0,6975,54025.0,1190.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Terraform,1084.0,6975,54025.0,3444.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Vercel,1089.0,6975,54025.0,2334.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Vite,2853.0,6975,54025.0,5628.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Webpack,2166.0,6975,54025.0,4078.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,21.0,6975,54025.0,116.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,Yarn,2127.0,6975,54025.0,4573.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,npm,5273.0,6975,54025.0,11921.0,17691,138508.0
+complete,fullstack,cloud_tools,PlatformHaveWorkedWith,pnpm,1371.0,6975,54025.0,2911.0,17691,138508.0
+complete,backend,languages,LanguageHaveWorkedWith,Ada,10.0,3074,18288.0,146.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Assembly,103.0,3074,18288.0,942.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),1606.0,3074,18288.0,9374.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,C,364.0,3074,18288.0,3038.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,C#,802.0,3074,18288.0,5652.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,C++,386.0,3074,18288.0,3227.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,COBOL,20.0,3074,18288.0,157.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Dart,129.0,3074,18288.0,1204.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Delphi,26.0,3074,18288.0,304.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Elixir,137.0,3074,18288.0,598.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Erlang,50.0,3074,18288.0,289.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,F#,39.0,3074,18288.0,234.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Fortran,17.0,3074,18288.0,154.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,GDScript,72.0,3074,18288.0,607.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Gleam,31.0,3074,18288.0,223.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Go,750.0,3074,18288.0,3574.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Groovy,205.0,3074,18288.0,964.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,HTML/CSS,1681.0,3074,18288.0,13228.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Java,1157.0,3074,18288.0,5832.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,JavaScript,2036.0,3074,18288.0,14323.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Kotlin,395.0,3074,18288.0,2138.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Lisp,72.0,3074,18288.0,365.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Lua,270.0,3074,18288.0,1734.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,MATLAB,31.0,3074,18288.0,508.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,MicroPython,48.0,3074,18288.0,377.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Mojo,4.0,3074,18288.0,70.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,OCaml,27.0,3074,18288.0,170.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,PHP,575.0,3074,18288.0,4202.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Perl,86.0,3074,18288.0,669.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,PowerShell,639.0,3074,18288.0,4792.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Prolog,23.0,3074,18288.0,171.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Python,1702.0,3074,18288.0,10460.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,R,56.0,3074,18288.0,747.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Ruby,266.0,3074,18288.0,1513.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Rust,477.0,3074,18288.0,2764.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,SQL,2174.0,3074,18288.0,12795.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Scala,149.0,3074,18288.0,512.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Swift,64.0,3074,18288.0,875.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,TypeScript,1425.0,3074,18288.0,10565.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,VBA,41.0,3074,18288.0,670.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Visual Basic (.Net),82.0,3074,18288.0,849.0,17691,121382.0
+complete,backend,languages,LanguageHaveWorkedWith,Zig,61.0,3074,18288.0,366.0,17691,121382.0
+complete,backend,databases,DatabaseHaveWorkedWith,Amazon Redshift,60.0,3074,11631.0,427.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,BigQuery,257.0,3074,11631.0,1245.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Cassandra,133.0,3074,11631.0,564.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Clickhouse,119.0,3074,11631.0,449.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Cloud Firestore,129.0,3074,11631.0,1173.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Cockroachdb,24.0,3074,11631.0,177.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Cosmos DB,180.0,3074,11631.0,1000.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Databricks SQL,86.0,3074,11631.0,573.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Datomic,8.0,3074,11631.0,76.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,DuckDB,89.0,3074,11631.0,609.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Dynamodb,464.0,3074,11631.0,2121.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Elasticsearch,795.0,3074,11631.0,3543.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,83.0,3074,11631.0,960.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,H2,282.0,3074,11631.0,1022.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,IBM DB2,55.0,3074,11631.0,389.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,InfluxDB,127.0,3074,11631.0,721.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,MariaDB,621.0,3074,11631.0,4378.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Microsoft Access,44.0,3074,11631.0,717.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,761.0,3074,11631.0,5487.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,MongoDB,812.0,3074,11631.0,4945.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,MySQL,1268.0,3074,11631.0,7662.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Neo4J,66.0,3074,11631.0,519.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Oracle,296.0,3074,11631.0,1807.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Pocketbase,10.0,3074,11631.0,199.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,PostgreSQL,2067.0,3074,11631.0,11158.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Redis,1423.0,3074,11631.0,6160.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,SQLite,1005.0,3074,11631.0,7077.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Snowflake,139.0,3074,11631.0,770.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Supabase,129.0,3074,11631.0,1303.0,17691,67745.0
+complete,backend,databases,DatabaseHaveWorkedWith,Valkey,99.0,3074,11631.0,514.0,17691,67745.0
+complete,backend,web,WebframeHaveWorkedWith,ASP.NET,363.0,3074,9774.0,2691.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,ASP.NET Core,603.0,3074,9774.0,3836.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Angular,426.0,3074,9774.0,3496.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,AngularJS,159.0,3074,9774.0,1414.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Astro,63.0,3074,9774.0,862.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Axum,127.0,3074,9774.0,537.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Blazor,180.0,3074,9774.0,1329.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Deno,91.0,3074,9774.0,811.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Django,411.0,3074,9774.0,2447.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Drupal,40.0,3074,9774.0,435.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Express,461.0,3074,9774.0,3918.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,FastAPI,555.0,3074,9774.0,3042.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Fastify,76.0,3074,9774.0,615.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Flask,447.0,3074,9774.0,2815.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Laravel,268.0,3074,9774.0,1711.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,NestJS,200.0,3074,9774.0,1365.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Next.js,393.0,3074,9774.0,3998.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Node.js,1134.0,3074,9774.0,9248.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Nuxt.js,76.0,3074,9774.0,773.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Phoenix,107.0,3074,9774.0,484.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,React,1097.0,3074,9774.0,8434.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Ruby on Rails,214.0,3074,9774.0,1220.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Spring Boot,834.0,3074,9774.0,2983.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Svelte,121.0,3074,9774.0,1378.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Symfony,170.0,3074,9774.0,822.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,Vue.js,416.0,3074,9774.0,3345.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,WordPress,216.0,3074,9774.0,2509.0,17691,70791.0
+complete,backend,web,WebframeHaveWorkedWith,jQuery,526.0,3074,9774.0,4273.0,17691,70791.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,APT,502.0,3074,22848.0,3320.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),1671.0,3074,22848.0,8309.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Ansible,355.0,3074,22848.0,2104.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Bun,125.0,3074,22848.0,1208.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Cargo,431.0,3074,22848.0,2554.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Chocolatey,269.0,3074,22848.0,2133.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Cloudflare,593.0,3074,22848.0,4146.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Composer,394.0,3074,22848.0,2426.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Datadog,476.0,3074,22848.0,1765.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,348.0,3074,22848.0,2245.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Docker,2540.0,3074,22848.0,13446.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Firebase,279.0,3074,22848.0,2612.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Google Cloud,733.0,3074,22848.0,4661.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Gradle,545.0,3074,22848.0,2727.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Heroku,158.0,3074,22848.0,1170.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Homebrew,933.0,3074,22848.0,4931.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,18.0,3074,22848.0,211.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Kubernetes,1333.0,3074,22848.0,5472.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,MSBuild,307.0,3074,22848.0,2135.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Make,715.0,3074,22848.0,3863.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),726.0,3074,22848.0,3183.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,755.0,3074,22848.0,5108.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Netlify,109.0,3074,22848.0,1214.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,New Relic,177.0,3074,22848.0,804.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Ninja,91.0,3074,22848.0,695.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,NuGet,588.0,3074,22848.0,3899.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Pacman,235.0,3074,22848.0,1487.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Pip,1197.0,3074,22848.0,7358.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Podman,364.0,3074,22848.0,2018.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Poetry,340.0,3074,22848.0,1689.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Prometheus,588.0,3074,22848.0,2277.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Railway,40.0,3074,22848.0,323.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Splunk,200.0,3074,22848.0,820.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Supabase,118.0,3074,22848.0,1190.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Terraform,751.0,3074,22848.0,3444.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Vercel,205.0,3074,22848.0,2334.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Vite,543.0,3074,22848.0,5628.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Webpack,381.0,3074,22848.0,4078.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,15.0,3074,22848.0,116.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,Yarn,649.0,3074,22848.0,4573.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,npm,1726.0,3074,22848.0,11921.0,17691,138508.0
+complete,backend,cloud_tools,PlatformHaveWorkedWith,pnpm,325.0,3074,22848.0,2911.0,17691,138508.0
+complete,frontend,languages,LanguageHaveWorkedWith,Ada,4.0,590,3187.0,146.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Assembly,16.0,590,3187.0,942.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),230.0,590,3187.0,9374.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,C,35.0,590,3187.0,3038.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,C#,76.0,590,3187.0,5652.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,C++,45.0,590,3187.0,3227.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,COBOL,1.0,590,3187.0,157.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Dart,27.0,590,3187.0,1204.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Delphi,3.0,590,3187.0,304.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Elixir,7.0,590,3187.0,598.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Erlang,5.0,590,3187.0,289.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,F#,3.0,590,3187.0,234.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Fortran,3.0,590,3187.0,154.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,GDScript,25.0,590,3187.0,607.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Gleam,7.0,590,3187.0,223.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Go,56.0,590,3187.0,3574.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Groovy,12.0,590,3187.0,964.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,HTML/CSS,532.0,590,3187.0,13228.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Java,109.0,590,3187.0,5832.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,JavaScript,561.0,590,3187.0,14323.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Kotlin,34.0,590,3187.0,2138.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Lisp,6.0,590,3187.0,365.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Lua,38.0,590,3187.0,1734.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,MATLAB,13.0,590,3187.0,508.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,MicroPython,3.0,590,3187.0,377.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Mojo,0.0,590,3187.0,70.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,OCaml,2.0,590,3187.0,170.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,PHP,123.0,590,3187.0,4202.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Perl,3.0,590,3187.0,669.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,PowerShell,91.0,590,3187.0,4792.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Prolog,2.0,590,3187.0,171.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Python,206.0,590,3187.0,10460.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,R,10.0,590,3187.0,747.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Ruby,29.0,590,3187.0,1513.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Rust,50.0,590,3187.0,2764.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,SQL,262.0,590,3187.0,12795.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Scala,3.0,590,3187.0,512.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Swift,25.0,590,3187.0,875.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,TypeScript,505.0,590,3187.0,10565.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,VBA,10.0,590,3187.0,670.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Visual Basic (.Net),13.0,590,3187.0,849.0,17691,121382.0
+complete,frontend,languages,LanguageHaveWorkedWith,Zig,2.0,590,3187.0,366.0,17691,121382.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Amazon Redshift,5.0,590,1679.0,427.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,BigQuery,23.0,590,1679.0,1245.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Cassandra,5.0,590,1679.0,564.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Clickhouse,1.0,590,1679.0,449.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Cloud Firestore,56.0,590,1679.0,1173.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Cockroachdb,3.0,590,1679.0,177.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Cosmos DB,14.0,590,1679.0,1000.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Databricks SQL,11.0,590,1679.0,573.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Datomic,0.0,590,1679.0,76.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,DuckDB,6.0,590,1679.0,609.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Dynamodb,45.0,590,1679.0,2121.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Elasticsearch,63.0,590,1679.0,3543.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,48.0,590,1679.0,960.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,H2,8.0,590,1679.0,1022.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,IBM DB2,3.0,590,1679.0,389.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,InfluxDB,3.0,590,1679.0,721.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,MariaDB,110.0,590,1679.0,4378.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Microsoft Access,9.0,590,1679.0,717.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,88.0,590,1679.0,5487.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,MongoDB,207.0,590,1679.0,4945.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,MySQL,251.0,590,1679.0,7662.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Neo4J,10.0,590,1679.0,519.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Oracle,20.0,590,1679.0,1807.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Pocketbase,7.0,590,1679.0,199.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,PostgreSQL,310.0,590,1679.0,11158.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Redis,104.0,590,1679.0,6160.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,SQLite,167.0,590,1679.0,7077.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Snowflake,8.0,590,1679.0,770.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Supabase,88.0,590,1679.0,1303.0,17691,67745.0
+complete,frontend,databases,DatabaseHaveWorkedWith,Valkey,6.0,590,1679.0,514.0,17691,67745.0
+complete,frontend,web,WebframeHaveWorkedWith,ASP.NET,30.0,590,2607.0,2691.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,ASP.NET Core,39.0,590,2607.0,3836.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Angular,152.0,590,2607.0,3496.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,AngularJS,41.0,590,2607.0,1414.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Astro,63.0,590,2607.0,862.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Axum,4.0,590,2607.0,537.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Blazor,11.0,590,2607.0,1329.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Deno,38.0,590,2607.0,811.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Django,45.0,590,2607.0,2447.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Drupal,17.0,590,2607.0,435.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Express,201.0,590,2607.0,3918.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,FastAPI,46.0,590,2607.0,3042.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Fastify,29.0,590,2607.0,615.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Flask,33.0,590,2607.0,2815.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Laravel,36.0,590,2607.0,1711.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,NestJS,73.0,590,2607.0,1365.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Next.js,265.0,590,2607.0,3998.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Node.js,420.0,590,2607.0,9248.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Nuxt.js,63.0,590,2607.0,773.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Phoenix,5.0,590,2607.0,484.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,React,441.0,590,2607.0,8434.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Ruby on Rails,28.0,590,2607.0,1220.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Spring Boot,51.0,590,2607.0,2983.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Svelte,69.0,590,2607.0,1378.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Symfony,18.0,590,2607.0,822.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,Vue.js,153.0,590,2607.0,3345.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,WordPress,104.0,590,2607.0,2509.0,17691,70791.0
+complete,frontend,web,WebframeHaveWorkedWith,jQuery,132.0,590,2607.0,4273.0,17691,70791.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,APT,54.0,590,4347.0,3320.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),236.0,590,4347.0,8309.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Ansible,23.0,590,4347.0,2104.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Bun,61.0,590,4347.0,1208.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Cargo,44.0,590,4347.0,2554.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Chocolatey,58.0,590,4347.0,2133.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Cloudflare,147.0,590,4347.0,4146.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Composer,55.0,590,4347.0,2426.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Datadog,41.0,590,4347.0,1765.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,65.0,590,4347.0,2245.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Docker,398.0,590,4347.0,13446.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Firebase,132.0,590,4347.0,2612.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Google Cloud,129.0,590,4347.0,4661.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Gradle,50.0,590,4347.0,2727.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Heroku,46.0,590,4347.0,1170.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Homebrew,177.0,590,4347.0,4931.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,5.0,590,4347.0,211.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Kubernetes,92.0,590,4347.0,5472.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,MSBuild,13.0,590,4347.0,2135.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Make,53.0,590,4347.0,3863.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),48.0,590,4347.0,3183.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,96.0,590,4347.0,5108.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Netlify,104.0,590,4347.0,1214.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,New Relic,18.0,590,4347.0,804.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Ninja,10.0,590,4347.0,695.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,NuGet,44.0,590,4347.0,3899.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Pacman,26.0,590,4347.0,1487.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Pip,129.0,590,4347.0,7358.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Podman,28.0,590,4347.0,2018.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Poetry,27.0,590,4347.0,1689.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Prometheus,16.0,590,4347.0,2277.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Railway,17.0,590,4347.0,323.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Splunk,14.0,590,4347.0,820.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Supabase,75.0,590,4347.0,1190.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Terraform,42.0,590,4347.0,3444.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Vercel,181.0,590,4347.0,2334.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Vite,375.0,590,4347.0,5628.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Webpack,282.0,590,4347.0,4078.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,2.0,590,4347.0,116.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,Yarn,249.0,590,4347.0,4573.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,npm,490.0,590,4347.0,11921.0,17691,138508.0
+complete,frontend,cloud_tools,PlatformHaveWorkedWith,pnpm,195.0,590,4347.0,2911.0,17691,138508.0
+complete,desktop,languages,LanguageHaveWorkedWith,Ada,4.0,529,3767.0,146.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Assembly,43.0,529,3767.0,942.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),267.0,529,3767.0,9374.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,C,138.0,529,3767.0,3038.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,C#,281.0,529,3767.0,5652.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,C++,181.0,529,3767.0,3227.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,COBOL,8.0,529,3767.0,157.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Dart,27.0,529,3767.0,1204.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Delphi,52.0,529,3767.0,304.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Elixir,7.0,529,3767.0,598.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Erlang,4.0,529,3767.0,289.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,F#,11.0,529,3767.0,234.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Fortran,7.0,529,3767.0,154.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,GDScript,16.0,529,3767.0,607.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Gleam,9.0,529,3767.0,223.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Go,74.0,529,3767.0,3574.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Groovy,31.0,529,3767.0,964.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,HTML/CSS,366.0,529,3767.0,13228.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Java,182.0,529,3767.0,5832.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,JavaScript,381.0,529,3767.0,14323.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Kotlin,70.0,529,3767.0,2138.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Lisp,11.0,529,3767.0,365.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Lua,45.0,529,3767.0,1734.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,MATLAB,15.0,529,3767.0,508.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,MicroPython,8.0,529,3767.0,377.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Mojo,2.0,529,3767.0,70.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,OCaml,7.0,529,3767.0,170.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,PHP,88.0,529,3767.0,4202.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Perl,29.0,529,3767.0,669.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,PowerShell,213.0,529,3767.0,4792.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Prolog,4.0,529,3767.0,171.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Python,272.0,529,3767.0,10460.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,R,12.0,529,3767.0,747.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Ruby,14.0,529,3767.0,1513.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Rust,81.0,529,3767.0,2764.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,SQL,404.0,529,3767.0,12795.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Scala,18.0,529,3767.0,512.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Swift,20.0,529,3767.0,875.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,TypeScript,239.0,529,3767.0,10565.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,VBA,49.0,529,3767.0,670.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Visual Basic (.Net),61.0,529,3767.0,849.0,17691,121382.0
+complete,desktop,languages,LanguageHaveWorkedWith,Zig,16.0,529,3767.0,366.0,17691,121382.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Amazon Redshift,5.0,529,1704.0,427.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,BigQuery,17.0,529,1704.0,1245.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Cassandra,12.0,529,1704.0,564.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Clickhouse,4.0,529,1704.0,449.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Cloud Firestore,24.0,529,1704.0,1173.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Cockroachdb,3.0,529,1704.0,177.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Cosmos DB,26.0,529,1704.0,1000.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Databricks SQL,14.0,529,1704.0,573.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Datomic,5.0,529,1704.0,76.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,DuckDB,10.0,529,1704.0,609.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Dynamodb,20.0,529,1704.0,2121.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Elasticsearch,49.0,529,1704.0,3543.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,24.0,529,1704.0,960.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,H2,38.0,529,1704.0,1022.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,IBM DB2,19.0,529,1704.0,389.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,InfluxDB,9.0,529,1704.0,721.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,MariaDB,111.0,529,1704.0,4378.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Microsoft Access,43.0,529,1704.0,717.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,262.0,529,1704.0,5487.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,MongoDB,79.0,529,1704.0,4945.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,MySQL,194.0,529,1704.0,7662.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Neo4J,8.0,529,1704.0,519.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Oracle,92.0,529,1704.0,1807.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Pocketbase,3.0,529,1704.0,199.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,PostgreSQL,270.0,529,1704.0,11158.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Redis,79.0,529,1704.0,6160.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,SQLite,249.0,529,1704.0,7077.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Snowflake,10.0,529,1704.0,770.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Supabase,17.0,529,1704.0,1303.0,17691,67745.0
+complete,desktop,databases,DatabaseHaveWorkedWith,Valkey,8.0,529,1704.0,514.0,17691,67745.0
+complete,desktop,web,WebframeHaveWorkedWith,ASP.NET,161.0,529,1860.0,2691.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,ASP.NET Core,200.0,529,1860.0,3836.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Angular,119.0,529,1860.0,3496.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,AngularJS,37.0,529,1860.0,1414.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Astro,15.0,529,1860.0,862.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Axum,21.0,529,1860.0,537.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Blazor,99.0,529,1860.0,1329.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Deno,15.0,529,1860.0,811.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Django,43.0,529,1860.0,2447.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Drupal,7.0,529,1860.0,435.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Express,57.0,529,1860.0,3918.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,FastAPI,42.0,529,1860.0,3042.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Fastify,9.0,529,1860.0,615.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Flask,64.0,529,1860.0,2815.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Laravel,22.0,529,1860.0,1711.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,NestJS,16.0,529,1860.0,1365.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Next.js,55.0,529,1860.0,3998.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Node.js,225.0,529,1860.0,9248.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Nuxt.js,13.0,529,1860.0,773.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Phoenix,8.0,529,1860.0,484.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,React,176.0,529,1860.0,8434.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Ruby on Rails,10.0,529,1860.0,1220.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Spring Boot,101.0,529,1860.0,2983.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Svelte,30.0,529,1860.0,1378.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Symfony,16.0,529,1860.0,822.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,Vue.js,75.0,529,1860.0,3345.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,WordPress,73.0,529,1860.0,2509.0,17691,70791.0
+complete,desktop,web,WebframeHaveWorkedWith,jQuery,151.0,529,1860.0,4273.0,17691,70791.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,APT,94.0,529,3289.0,3320.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),159.0,529,3289.0,8309.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Ansible,32.0,529,3289.0,2104.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Bun,15.0,529,3289.0,1208.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Cargo,76.0,529,3289.0,2554.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Chocolatey,86.0,529,3289.0,2133.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Cloudflare,75.0,529,3289.0,4146.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Composer,43.0,529,3289.0,2426.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Datadog,14.0,529,3289.0,1765.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,39.0,529,3289.0,2245.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Docker,329.0,529,3289.0,13446.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Firebase,52.0,529,3289.0,2612.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Google Cloud,91.0,529,3289.0,4661.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Gradle,76.0,529,3289.0,2727.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Heroku,20.0,529,3289.0,1170.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Homebrew,76.0,529,3289.0,4931.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,6.0,529,3289.0,211.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Kubernetes,99.0,529,3289.0,5472.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,MSBuild,168.0,529,3289.0,2135.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Make,108.0,529,3289.0,3863.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),122.0,529,3289.0,3183.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,201.0,529,3289.0,5108.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Netlify,21.0,529,3289.0,1214.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,New Relic,8.0,529,3289.0,804.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Ninja,38.0,529,3289.0,695.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,NuGet,217.0,529,3289.0,3899.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Pacman,60.0,529,3289.0,1487.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Pip,174.0,529,3289.0,7358.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Podman,37.0,529,3289.0,2018.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Poetry,25.0,529,3289.0,1689.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Prometheus,31.0,529,3289.0,2277.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Railway,7.0,529,3289.0,323.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Splunk,18.0,529,3289.0,820.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Supabase,15.0,529,3289.0,1190.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Terraform,44.0,529,3289.0,3444.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Vercel,30.0,529,3289.0,2334.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Vite,103.0,529,3289.0,5628.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Webpack,66.0,529,3289.0,4078.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,7.0,529,3289.0,116.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,Yarn,69.0,529,3289.0,4573.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,npm,290.0,529,3289.0,11921.0,17691,138508.0
+complete,desktop,cloud_tools,PlatformHaveWorkedWith,pnpm,48.0,529,3289.0,2911.0,17691,138508.0
+complete,mobile,languages,LanguageHaveWorkedWith,Ada,6.0,242,1804.0,146.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Assembly,11.0,242,1804.0,942.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),95.0,242,1804.0,9374.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,C,55.0,242,1804.0,3038.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,C#,63.0,242,1804.0,5652.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,C++,54.0,242,1804.0,3227.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,COBOL,4.0,242,1804.0,157.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Dart,92.0,242,1804.0,1204.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Delphi,5.0,242,1804.0,304.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Elixir,9.0,242,1804.0,598.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Erlang,4.0,242,1804.0,289.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,F#,5.0,242,1804.0,234.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Fortran,4.0,242,1804.0,154.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,GDScript,9.0,242,1804.0,607.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Gleam,1.0,242,1804.0,223.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Go,28.0,242,1804.0,3574.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Groovy,27.0,242,1804.0,964.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,HTML/CSS,153.0,242,1804.0,13228.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Java,121.0,242,1804.0,5832.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,JavaScript,187.0,242,1804.0,14323.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Kotlin,131.0,242,1804.0,2138.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Lisp,6.0,242,1804.0,365.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Lua,13.0,242,1804.0,1734.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,MATLAB,5.0,242,1804.0,508.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,MicroPython,5.0,242,1804.0,377.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Mojo,3.0,242,1804.0,70.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,OCaml,3.0,242,1804.0,170.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,PHP,54.0,242,1804.0,4202.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Perl,10.0,242,1804.0,669.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,PowerShell,34.0,242,1804.0,4792.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Prolog,5.0,242,1804.0,171.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Python,118.0,242,1804.0,10460.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,R,12.0,242,1804.0,747.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Ruby,28.0,242,1804.0,1513.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Rust,29.0,242,1804.0,2764.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,SQL,134.0,242,1804.0,12795.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Scala,7.0,242,1804.0,512.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Swift,135.0,242,1804.0,875.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,TypeScript,122.0,242,1804.0,10565.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,VBA,5.0,242,1804.0,670.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Visual Basic (.Net),8.0,242,1804.0,849.0,17691,121382.0
+complete,mobile,languages,LanguageHaveWorkedWith,Zig,4.0,242,1804.0,366.0,17691,121382.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Amazon Redshift,2.0,242,855.0,427.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,BigQuery,18.0,242,855.0,1245.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Cassandra,4.0,242,855.0,564.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Clickhouse,6.0,242,855.0,449.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Cloud Firestore,67.0,242,855.0,1173.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Cockroachdb,4.0,242,855.0,177.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Cosmos DB,7.0,242,855.0,1000.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Databricks SQL,3.0,242,855.0,573.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Datomic,1.0,242,855.0,76.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,DuckDB,6.0,242,855.0,609.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Dynamodb,17.0,242,855.0,2121.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Elasticsearch,18.0,242,855.0,3543.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,59.0,242,855.0,960.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,H2,8.0,242,855.0,1022.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,IBM DB2,5.0,242,855.0,389.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,InfluxDB,4.0,242,855.0,721.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,MariaDB,37.0,242,855.0,4378.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Microsoft Access,8.0,242,855.0,717.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,38.0,242,855.0,5487.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,MongoDB,65.0,242,855.0,4945.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,MySQL,102.0,242,855.0,7662.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Neo4J,2.0,242,855.0,519.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Oracle,18.0,242,855.0,1807.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Pocketbase,6.0,242,855.0,199.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,PostgreSQL,114.0,242,855.0,11158.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Redis,35.0,242,855.0,6160.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,SQLite,151.0,242,855.0,7077.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Snowflake,6.0,242,855.0,770.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Supabase,41.0,242,855.0,1303.0,17691,67745.0
+complete,mobile,databases,DatabaseHaveWorkedWith,Valkey,3.0,242,855.0,514.0,17691,67745.0
+complete,mobile,web,WebframeHaveWorkedWith,ASP.NET,27.0,242,839.0,2691.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,ASP.NET Core,31.0,242,839.0,3836.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Angular,36.0,242,839.0,3496.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,AngularJS,19.0,242,839.0,1414.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Astro,9.0,242,839.0,862.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Axum,3.0,242,839.0,537.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Blazor,12.0,242,839.0,1329.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Deno,10.0,242,839.0,811.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Django,25.0,242,839.0,2447.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Drupal,4.0,242,839.0,435.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Express,60.0,242,839.0,3918.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,FastAPI,26.0,242,839.0,3042.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Fastify,8.0,242,839.0,615.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Flask,24.0,242,839.0,2815.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Laravel,32.0,242,839.0,1711.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,NestJS,16.0,242,839.0,1365.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Next.js,57.0,242,839.0,3998.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Node.js,120.0,242,839.0,9248.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Nuxt.js,15.0,242,839.0,773.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Phoenix,6.0,242,839.0,484.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,React,126.0,242,839.0,8434.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Ruby on Rails,16.0,242,839.0,1220.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Spring Boot,25.0,242,839.0,2983.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Svelte,14.0,242,839.0,1378.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Symfony,3.0,242,839.0,822.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,Vue.js,31.0,242,839.0,3345.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,WordPress,43.0,242,839.0,2509.0,17691,70791.0
+complete,mobile,web,WebframeHaveWorkedWith,jQuery,41.0,242,839.0,4273.0,17691,70791.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,APT,26.0,242,1829.0,3320.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),93.0,242,1829.0,8309.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Ansible,11.0,242,1829.0,2104.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Bun,17.0,242,1829.0,1208.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Cargo,27.0,242,1829.0,2554.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Chocolatey,17.0,242,1829.0,2133.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Cloudflare,49.0,242,1829.0,4146.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Composer,24.0,242,1829.0,2426.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Datadog,19.0,242,1829.0,1765.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,37.0,242,1829.0,2245.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Docker,149.0,242,1829.0,13446.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Firebase,165.0,242,1829.0,2612.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Google Cloud,112.0,242,1829.0,4661.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Gradle,110.0,242,1829.0,2727.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Heroku,21.0,242,1829.0,1170.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Homebrew,124.0,242,1829.0,4931.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,7.0,242,1829.0,211.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Kubernetes,36.0,242,1829.0,5472.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,MSBuild,18.0,242,1829.0,2135.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Make,30.0,242,1829.0,3863.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),43.0,242,1829.0,3183.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,51.0,242,1829.0,5108.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Netlify,22.0,242,1829.0,1214.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,New Relic,10.0,242,1829.0,804.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Ninja,9.0,242,1829.0,695.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,NuGet,27.0,242,1829.0,3899.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Pacman,5.0,242,1829.0,1487.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Pip,78.0,242,1829.0,7358.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Podman,12.0,242,1829.0,2018.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Poetry,6.0,242,1829.0,1689.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Prometheus,13.0,242,1829.0,2277.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Railway,4.0,242,1829.0,323.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Splunk,9.0,242,1829.0,820.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Supabase,41.0,242,1829.0,1190.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Terraform,21.0,242,1829.0,3444.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Vercel,42.0,242,1829.0,2334.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Vite,60.0,242,1829.0,5628.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Webpack,35.0,242,1829.0,4078.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,6.0,242,1829.0,116.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,Yarn,65.0,242,1829.0,4573.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,npm,157.0,242,1829.0,11921.0,17691,138508.0
+complete,mobile,cloud_tools,PlatformHaveWorkedWith,pnpm,21.0,242,1829.0,2911.0,17691,138508.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Ada,6.0,237,1475.0,146.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Assembly,16.0,237,1475.0,942.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),134.0,237,1475.0,9374.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,C,34.0,237,1475.0,3038.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,C#,46.0,237,1475.0,5652.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,C++,56.0,237,1475.0,3227.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,COBOL,2.0,237,1475.0,157.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Dart,14.0,237,1475.0,1204.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Delphi,1.0,237,1475.0,304.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Elixir,4.0,237,1475.0,598.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Erlang,2.0,237,1475.0,289.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,F#,4.0,237,1475.0,234.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Fortran,4.0,237,1475.0,154.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,GDScript,6.0,237,1475.0,607.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Gleam,2.0,237,1475.0,223.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Go,50.0,237,1475.0,3574.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Groovy,8.0,237,1475.0,964.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,HTML/CSS,140.0,237,1475.0,13228.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Java,62.0,237,1475.0,5832.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,JavaScript,149.0,237,1475.0,14323.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Kotlin,20.0,237,1475.0,2138.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Lisp,3.0,237,1475.0,365.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Lua,12.0,237,1475.0,1734.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,MATLAB,23.0,237,1475.0,508.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,MicroPython,6.0,237,1475.0,377.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Mojo,2.0,237,1475.0,70.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,OCaml,3.0,237,1475.0,170.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,PHP,27.0,237,1475.0,4202.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Perl,4.0,237,1475.0,669.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,PowerShell,46.0,237,1475.0,4792.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Prolog,0.0,237,1475.0,171.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Python,227.0,237,1475.0,10460.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,R,22.0,237,1475.0,747.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Ruby,8.0,237,1475.0,1513.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Rust,42.0,237,1475.0,2764.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,SQL,162.0,237,1475.0,12795.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Scala,7.0,237,1475.0,512.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Swift,3.0,237,1475.0,875.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,TypeScript,99.0,237,1475.0,10565.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,VBA,8.0,237,1475.0,670.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Visual Basic (.Net),9.0,237,1475.0,849.0,17691,121382.0
+complete,ml_engineer,languages,LanguageHaveWorkedWith,Zig,2.0,237,1475.0,366.0,17691,121382.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Amazon Redshift,11.0,237,995.0,427.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,BigQuery,45.0,237,995.0,1245.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Cassandra,12.0,237,995.0,564.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Clickhouse,10.0,237,995.0,449.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Cloud Firestore,18.0,237,995.0,1173.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Cockroachdb,0.0,237,995.0,177.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Cosmos DB,17.0,237,995.0,1000.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Databricks SQL,26.0,237,995.0,573.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Datomic,1.0,237,995.0,76.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,DuckDB,20.0,237,995.0,609.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Dynamodb,25.0,237,995.0,2121.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Elasticsearch,47.0,237,995.0,3543.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,9.0,237,995.0,960.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,H2,5.0,237,995.0,1022.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,IBM DB2,4.0,237,995.0,389.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,InfluxDB,12.0,237,995.0,721.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,MariaDB,36.0,237,995.0,4378.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Microsoft Access,8.0,237,995.0,717.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,51.0,237,995.0,5487.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,MongoDB,78.0,237,995.0,4945.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,MySQL,102.0,237,995.0,7662.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Neo4J,32.0,237,995.0,519.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Oracle,22.0,237,995.0,1807.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Pocketbase,1.0,237,995.0,199.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,PostgreSQL,168.0,237,995.0,11158.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Redis,79.0,237,995.0,6160.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,SQLite,110.0,237,995.0,7077.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Snowflake,13.0,237,995.0,770.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Supabase,25.0,237,995.0,1303.0,17691,67745.0
+complete,ml_engineer,databases,DatabaseHaveWorkedWith,Valkey,8.0,237,995.0,514.0,17691,67745.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,ASP.NET,19.0,237,899.0,2691.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,ASP.NET Core,22.0,237,899.0,3836.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Angular,29.0,237,899.0,3496.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,AngularJS,19.0,237,899.0,1414.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Astro,7.0,237,899.0,862.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Axum,5.0,237,899.0,537.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Blazor,5.0,237,899.0,1329.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Deno,10.0,237,899.0,811.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Django,58.0,237,899.0,2447.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Drupal,5.0,237,899.0,435.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Express,36.0,237,899.0,3918.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,FastAPI,157.0,237,899.0,3042.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Fastify,8.0,237,899.0,615.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Flask,84.0,237,899.0,2815.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Laravel,12.0,237,899.0,1711.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,NestJS,16.0,237,899.0,1365.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Next.js,57.0,237,899.0,3998.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Node.js,100.0,237,899.0,9248.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Nuxt.js,5.0,237,899.0,773.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Phoenix,4.0,237,899.0,484.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,React,106.0,237,899.0,8434.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Ruby on Rails,5.0,237,899.0,1220.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Spring Boot,22.0,237,899.0,2983.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Svelte,18.0,237,899.0,1378.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Symfony,5.0,237,899.0,822.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,Vue.js,34.0,237,899.0,3345.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,WordPress,20.0,237,899.0,2509.0,17691,70791.0
+complete,ml_engineer,web,WebframeHaveWorkedWith,jQuery,31.0,237,899.0,4273.0,17691,70791.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,APT,46.0,237,1829.0,3320.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),131.0,237,1829.0,8309.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Ansible,21.0,237,1829.0,2104.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Bun,20.0,237,1829.0,1208.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Cargo,38.0,237,1829.0,2554.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Chocolatey,29.0,237,1829.0,2133.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Cloudflare,37.0,237,1829.0,4146.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Composer,19.0,237,1829.0,2426.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Datadog,15.0,237,1829.0,1765.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,25.0,237,1829.0,2245.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Docker,197.0,237,1829.0,13446.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Firebase,33.0,237,1829.0,2612.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Google Cloud,97.0,237,1829.0,4661.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Gradle,20.0,237,1829.0,2727.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Heroku,13.0,237,1829.0,1170.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Homebrew,71.0,237,1829.0,4931.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,8.0,237,1829.0,211.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Kubernetes,86.0,237,1829.0,5472.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,MSBuild,14.0,237,1829.0,2135.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Make,58.0,237,1829.0,3863.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),21.0,237,1829.0,3183.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,66.0,237,1829.0,5108.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Netlify,25.0,237,1829.0,1214.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,New Relic,7.0,237,1829.0,804.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Ninja,6.0,237,1829.0,695.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,NuGet,14.0,237,1829.0,3899.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Pacman,16.0,237,1829.0,1487.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Pip,180.0,237,1829.0,7358.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Podman,25.0,237,1829.0,2018.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Poetry,72.0,237,1829.0,1689.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Prometheus,27.0,237,1829.0,2277.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Railway,6.0,237,1829.0,323.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Splunk,4.0,237,1829.0,820.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Supabase,24.0,237,1829.0,1190.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Terraform,47.0,237,1829.0,3444.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Vercel,30.0,237,1829.0,2334.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Vite,54.0,237,1829.0,5628.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Webpack,33.0,237,1829.0,4078.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,2.0,237,1829.0,116.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,Yarn,36.0,237,1829.0,4573.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,npm,123.0,237,1829.0,11921.0,17691,138508.0
+complete,ml_engineer,cloud_tools,PlatformHaveWorkedWith,pnpm,33.0,237,1829.0,2911.0,17691,138508.0
+complete,embedded,languages,LanguageHaveWorkedWith,Ada,4.0,141,1231.0,146.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Assembly,42.0,141,1231.0,942.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Bash/Shell (all shells),103.0,141,1231.0,9374.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,C,107.0,141,1231.0,3038.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,C#,37.0,141,1231.0,5652.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,C++,101.0,141,1231.0,3227.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,COBOL,1.0,141,1231.0,157.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Dart,6.0,141,1231.0,1204.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Delphi,5.0,141,1231.0,304.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Elixir,4.0,141,1231.0,598.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Erlang,1.0,141,1231.0,289.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,F#,1.0,141,1231.0,234.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Fortran,0.0,141,1231.0,154.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,GDScript,7.0,141,1231.0,607.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Gleam,2.0,141,1231.0,223.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Go,29.0,141,1231.0,3574.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Groovy,12.0,141,1231.0,964.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,HTML/CSS,92.0,141,1231.0,13228.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Java,54.0,141,1231.0,5832.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,JavaScript,100.0,141,1231.0,14323.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Kotlin,16.0,141,1231.0,2138.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Lisp,6.0,141,1231.0,365.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Lua,30.0,141,1231.0,1734.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,MATLAB,20.0,141,1231.0,508.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,MicroPython,12.0,141,1231.0,377.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Mojo,1.0,141,1231.0,70.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,OCaml,0.0,141,1231.0,170.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,PHP,24.0,141,1231.0,4202.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Perl,8.0,141,1231.0,669.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,PowerShell,41.0,141,1231.0,4792.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Prolog,1.0,141,1231.0,171.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Python,118.0,141,1231.0,10460.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,R,7.0,141,1231.0,747.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Ruby,7.0,141,1231.0,1513.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Rust,45.0,141,1231.0,2764.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,SQL,87.0,141,1231.0,12795.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Scala,2.0,141,1231.0,512.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Swift,9.0,141,1231.0,875.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,TypeScript,74.0,141,1231.0,10565.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,VBA,5.0,141,1231.0,670.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Visual Basic (.Net),5.0,141,1231.0,849.0,17691,121382.0
+complete,embedded,languages,LanguageHaveWorkedWith,Zig,5.0,141,1231.0,366.0,17691,121382.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Amazon Redshift,3.0,141,453.0,427.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,BigQuery,7.0,141,453.0,1245.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Cassandra,4.0,141,453.0,564.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Clickhouse,0.0,141,453.0,449.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Cloud Firestore,7.0,141,453.0,1173.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Cockroachdb,1.0,141,453.0,177.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Cosmos DB,5.0,141,453.0,1000.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Databricks SQL,3.0,141,453.0,573.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Datomic,1.0,141,453.0,76.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,DuckDB,3.0,141,453.0,609.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Dynamodb,9.0,141,453.0,2121.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Elasticsearch,21.0,141,453.0,3543.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Firebase Realtime Database,4.0,141,453.0,960.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,H2,6.0,141,453.0,1022.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,IBM DB2,1.0,141,453.0,389.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,InfluxDB,20.0,141,453.0,721.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,MariaDB,41.0,141,453.0,4378.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Microsoft Access,2.0,141,453.0,717.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Microsoft SQL Server,23.0,141,453.0,5487.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,MongoDB,30.0,141,453.0,4945.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,MySQL,53.0,141,453.0,7662.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Neo4J,2.0,141,453.0,519.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Oracle,7.0,141,453.0,1807.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Pocketbase,1.0,141,453.0,199.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,PostgreSQL,80.0,141,453.0,11158.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Redis,26.0,141,453.0,6160.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,SQLite,82.0,141,453.0,7077.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Snowflake,3.0,141,453.0,770.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Supabase,4.0,141,453.0,1303.0,17691,67745.0
+complete,embedded,databases,DatabaseHaveWorkedWith,Valkey,4.0,141,453.0,514.0,17691,67745.0
+complete,embedded,web,WebframeHaveWorkedWith,ASP.NET,11.0,141,457.0,2691.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,ASP.NET Core,13.0,141,457.0,3836.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Angular,23.0,141,457.0,3496.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,AngularJS,10.0,141,457.0,1414.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Astro,3.0,141,457.0,862.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Axum,9.0,141,457.0,537.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Blazor,7.0,141,457.0,1329.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Deno,6.0,141,457.0,811.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Django,23.0,141,457.0,2447.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Drupal,4.0,141,457.0,435.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Express,21.0,141,457.0,3918.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,FastAPI,24.0,141,457.0,3042.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Fastify,2.0,141,457.0,615.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Flask,41.0,141,457.0,2815.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Laravel,2.0,141,457.0,1711.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,NestJS,6.0,141,457.0,1365.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Next.js,23.0,141,457.0,3998.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Node.js,76.0,141,457.0,9248.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Nuxt.js,6.0,141,457.0,773.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Phoenix,3.0,141,457.0,484.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,React,52.0,141,457.0,8434.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Ruby on Rails,1.0,141,457.0,1220.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Spring Boot,11.0,141,457.0,2983.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Svelte,13.0,141,457.0,1378.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Symfony,2.0,141,457.0,822.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,Vue.js,30.0,141,457.0,3345.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,WordPress,10.0,141,457.0,2509.0,17691,70791.0
+complete,embedded,web,WebframeHaveWorkedWith,jQuery,25.0,141,457.0,4273.0,17691,70791.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,APT,54.0,141,1186.0,3320.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Amazon Web Services (AWS),49.0,141,1186.0,8309.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Ansible,31.0,141,1186.0,2104.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Bun,9.0,141,1186.0,1208.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Cargo,44.0,141,1186.0,2554.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Chocolatey,20.0,141,1186.0,2133.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Cloudflare,37.0,141,1186.0,4146.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Composer,8.0,141,1186.0,2426.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Datadog,4.0,141,1186.0,1765.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Digital Ocean,13.0,141,1186.0,2245.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Docker,120.0,141,1186.0,13446.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Firebase,14.0,141,1186.0,2612.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Google Cloud,30.0,141,1186.0,4661.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Gradle,31.0,141,1186.0,2727.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Heroku,2.0,141,1186.0,1170.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Homebrew,22.0,141,1186.0,4931.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,IBM Cloud,1.0,141,1186.0,211.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Kubernetes,28.0,141,1186.0,5472.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,MSBuild,16.0,141,1186.0,2135.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Make,88.0,141,1186.0,3863.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Maven (build tool),22.0,141,1186.0,3183.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Microsoft Azure,23.0,141,1186.0,5108.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Netlify,5.0,141,1186.0,1214.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,New Relic,2.0,141,1186.0,804.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Ninja,53.0,141,1186.0,695.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,NuGet,26.0,141,1186.0,3899.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Pacman,31.0,141,1186.0,1487.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Pip,92.0,141,1186.0,7358.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Podman,28.0,141,1186.0,2018.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Poetry,20.0,141,1186.0,1689.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Prometheus,21.0,141,1186.0,2277.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Railway,0.0,141,1186.0,323.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Splunk,5.0,141,1186.0,820.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Supabase,5.0,141,1186.0,1190.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Terraform,19.0,141,1186.0,3444.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Vercel,13.0,141,1186.0,2334.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Vite,43.0,141,1186.0,5628.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Webpack,18.0,141,1186.0,4078.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Yandex Cloud,2.0,141,1186.0,116.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,Yarn,32.0,141,1186.0,4573.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,npm,90.0,141,1186.0,11921.0,17691,138508.0
+complete,embedded,cloud_tools,PlatformHaveWorkedWith,pnpm,15.0,141,1186.0,2911.0,17691,138508.0
