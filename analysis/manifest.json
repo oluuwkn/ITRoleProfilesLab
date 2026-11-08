@@ -1,0 +1,21 @@
+{
+  "README.md": "c2ee435d1e96f4f4a633208907a91e974ac2e9ad498b80852dee6c55484f618d",
+  "build_manuscript.py": "695293f76e919885349f7be2c4f03e17d1232b893614c0556bce3db48bbd7062",
+  "results/audit.json": "4b0e62ef917f37535bbca0b7198b6f29e629e9790871b061b67918b351e432ce",
+  "results/bootstrap_correlation_summary.csv": "2ee7f7b35e4749558790c6591c0d13f3b03f2d1b0908c8e5ae425234ec2d6249",
+  "results/bootstrap_inclusion_probabilities.csv": "34b03d0d8225665cca67256b5ddc4f9812b87f61d13cff7eb017b57d938a97ab",
+  "results/bootstrap_metrics.csv.gz": "a11e171d74190c4672e02cc941e6f9ca21012dbe7f31a6e6af8ce121403fd844",
+  "results/bootstrap_paired_correlations.csv.gz": "d67cfc67d509c46f612cca7b74afcb303b6d4d3a7a3171f85e24d4166268de2a",
+  "results/bootstrap_stability_summary.csv": "dd6d7d9ee6ed50a0fc7a3d2eec00f0fbf8b14af480a03bed86bc976c5f372a82",
+  "results/design_effects.csv": "7dd3ba10f858434499c46fff1a42491a260e1bb3d569ae6b4a0ed6bd11e9f783",
+  "results/legacy_reproduced.csv": "6ac43e1243622e2a93ce42561250f9cadad2aa3a6697bc50d35e8dcf6d120031",
+  "results/method_correlations.csv": "df4354acd3b74a65a6a2ef01a77bd197cad9edb04205250bb34251004c73a174",
+  "results/respondents.csv": "2826d1c7381c57f6e4cf351940e9db6af0483ead0facc8851fda457774e0c2e2",
+  "results/scores_full_precision.csv": "805f08f73611039877a1a552fd4c5f0887280fb99bc4e4386ea9a1d2e2e06ecd",
+  "results/technology_counts.csv": "5bf906046b820d3f0d787026dbd522ef021ad863071f8be3b4ae9651cee48c7a",
+  "results/threshold_sensitivity.csv": "e2ece7ddc7a077f80e49b41026004f94db73648cf23cc649bb48de27cf09357b",
+  "results/top5.csv": "10521f382d939a466d19f4a76c531bd79f79133b84197940e38e665c1b6a65ab",
+  "results/variance_decomposition.csv": "9010134c28ea2e2b5e736f308d8fcb681a2822b3d7739b10c4b1155db268e116",
+  "run.log": "25c82750ebdad95ec72dbb8b2db5e70c3ca87bbee2973e2ce56957c6505801ed",
+  "run_analysis.py": "3bc7a47a3a3a5700e25f9ef78e8af8b481bc1cd3cfb961aaebabbcc63a384025"
+}
